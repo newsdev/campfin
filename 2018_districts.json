@@ -1,0 +1,3973 @@
+[
+    {
+        "candidates": [
+            "H8TX21265", 
+            "H4TX28046", 
+            "H8TX21158", 
+            "H8TX21299", 
+            "H8TX21216", 
+            "H8TX21190", 
+            "H8TX21281", 
+            "H8TX21166", 
+            "H8TX21141", 
+            "H8TX21224", 
+            "H8TX21257", 
+            "H8TX08106", 
+            "H6TX21012", 
+            "H8TX21273", 
+            "H8TX21240", 
+            "H8TX21232", 
+            "H6TX21228", 
+            "H8TX21182"
+        ], 
+        "district": "TX21"
+    }, 
+    {
+        "candidates": [
+            "H8FL27037", 
+            "H8FL27086", 
+            "H8FL27151", 
+            "H8FL27110", 
+            "H6FL27031", 
+            "H8FL27136", 
+            "H8FL27011", 
+            "H8FL27144", 
+            "H8FL27045", 
+            "H6FL27049", 
+            "H8FL27078", 
+            "H8FL27060", 
+            "H8FL27094", 
+            "H8FL27052", 
+            "H8FL27029", 
+            "H0FL18025", 
+            "H8FL27128", 
+            "H8FL27102"
+        ], 
+        "district": "FL27"
+    }, 
+    {
+        "candidates": [
+            "H8TX07082", 
+            "H6TX02160", 
+            "H8TX02166", 
+            "H8TX02075", 
+            "H8TX02059", 
+            "H8TX02182", 
+            "H8TX02091", 
+            "H8TX02083", 
+            "H8TX02067", 
+            "H8TX02190", 
+            "H8TX02158", 
+            "H8TX02133", 
+            "H8TX02174", 
+            "H4TX02108", 
+            "H8TX02117", 
+            "H8TX02125", 
+            "H8TX02141", 
+            "H8TX02109"
+        ], 
+        "district": "TX02"
+    }, 
+    {
+        "candidates": [
+            "H8MA03163", 
+            "H8MA03130", 
+            "H8MA03171", 
+            "H8MA03114", 
+            "H8MA03064", 
+            "H8MA03155", 
+            "H8MA03072", 
+            "H8MA03197", 
+            "H8MA03189", 
+            "H8MA03080", 
+            "H8MA03122", 
+            "H8MA03098", 
+            "H8MA03148", 
+            "H8MA03106", 
+            "H8MA05143"
+        ], 
+        "district": "MA03"
+    }, 
+    {
+        "candidates": [
+            "H8NM01356", 
+            "H8NM01372", 
+            "H8NM01414", 
+            "H8NM01406", 
+            "H8NM01349", 
+            "H8NM01422", 
+            "H8NM01331", 
+            "H8NM01398", 
+            "H8NM01364", 
+            "H8NM01257", 
+            "H8NM01380", 
+            "H8NM01430", 
+            "H8NM01448", 
+            "H8NM01323"
+        ], 
+        "district": "NM01"
+    }, 
+    {
+        "candidates": [
+            "H8WA08114", 
+            "H8WA08122", 
+            "H8WA08155", 
+            "H8WA08221", 
+            "H8WA08239", 
+            "H8WA08197", 
+            "H8WA08148", 
+            "H8WA08130", 
+            "H8WA08213", 
+            "H4WA08071", 
+            "H8WA08163", 
+            "H8WA08205", 
+            "H8WA08189", 
+            "H8WA08171"
+        ], 
+        "district": "WA08"
+    }, 
+    {
+        "candidates": [
+            "H8NV03127", 
+            "H8NV03135", 
+            "H8NV03119", 
+            "H8NV03101", 
+            "H8NV03200", 
+            "H8NV03192", 
+            "H8NV03150", 
+            "H8NV03218", 
+            "H8NV03226", 
+            "H6NV03139", 
+            "H6NV03154", 
+            "H8NV03184", 
+            "H8NV03176", 
+            "H8NV03168"
+        ], 
+        "district": "NV03"
+    }, 
+    {
+        "candidates": [
+            "H8TX32098", 
+            "H8TX32155", 
+            "H8TX32130", 
+            "H8TX32064", 
+            "H2TX26051", 
+            "H8TX32072", 
+            "H8TX32114", 
+            "H8TX32106", 
+            "H8TX32056", 
+            "H8TX32122", 
+            "H8TX32148", 
+            "H2TX03126", 
+            "H8TX32163"
+        ], 
+        "district": "TX32"
+    }, 
+    {
+        "candidates": [
+            "H6CA48245", 
+            "H8CA48076", 
+            "H8CA48118", 
+            "H8CA48100", 
+            "H8CA48043", 
+            "H8CA48092", 
+            "H8CA48068", 
+            "H4CA42078", 
+            "H8CA42061", 
+            "H8CA48035", 
+            "H8CA48084", 
+            "H8CA48050"
+        ], 
+        "district": "CA48"
+    }, 
+    {
+        "candidates": [
+            "H8TN02119", 
+            "H8TN02069", 
+            "H8TN02200", 
+            "H8TN02135", 
+            "H8TN02150", 
+            "H8TN02143", 
+            "H8TN02176", 
+            "H8TN02127", 
+            "H8TN02168", 
+            "H8TN02192", 
+            "H8TN02184", 
+            "H8TN02101"
+        ], 
+        "district": "TN02"
+    }, 
+    {
+        "candidates": [
+            "H8MD06192", 
+            "H2MD06195", 
+            "H6MD06121", 
+            "H8MD06135", 
+            "H8MD06176", 
+            "H8MD06218", 
+            "H6MD06212", 
+            "H8MD06184", 
+            "H8MD06150", 
+            "H8MD06143", 
+            "H8MD06200", 
+            "H8MD06168"
+        ], 
+        "district": "MD06"
+    }, 
+    {
+        "candidates": [
+            "H8ME02227", 
+            "H8ME02219", 
+            "H8ME02136", 
+            "H8ME02151", 
+            "H8ME02185", 
+            "H8ME02193", 
+            "H8ME02169", 
+            "H8ME02177", 
+            "H4ME02234", 
+            "H8ME02144", 
+            "H8ME02201", 
+            "H8ME02235"
+        ], 
+        "district": "ME02"
+    }, 
+    {
+        "candidates": [
+            "H8IA03124", 
+            "H8IA03173", 
+            "H8IA03165", 
+            "H8IA03157", 
+            "H8IA03140", 
+            "H8IA03181", 
+            "H8IA03132", 
+            "H8IA03116", 
+            "H8IA03108", 
+            "H4IA03057", 
+            "H4IA03115"
+        ], 
+        "district": "IA03"
+    }, 
+    {
+        "candidates": [
+            "H8PA15203", 
+            "H4PA15087", 
+            "H8PA15187", 
+            "H8PA15161", 
+            "H8PA15195", 
+            "H8PA15245", 
+            "H8PA15252", 
+            "H8PA15179", 
+            "H8PA15237", 
+            "H8PA15211", 
+            "H8PA15229"
+        ], 
+        "district": "PA15"
+    }, 
+    {
+        "candidates": [
+            "H2CA00096", 
+            "H8CA10134", 
+            "H8CA10100", 
+            "H8CA10167", 
+            "H0CA19173", 
+            "H8CA10126", 
+            "H8CA10175", 
+            "H8CA10118", 
+            "H8CA10142", 
+            "H8CA10159", 
+            "H8CA10183"
+        ], 
+        "district": "CA10"
+    }, 
+    {
+        "candidates": [
+            "H8NY21302", 
+            "H8NY21286", 
+            "H8NY21245", 
+            "H8NY21278", 
+            "H8NY21294", 
+            "H8NY21237", 
+            "H8NY21260", 
+            "H2NY21115", 
+            "H8NY21310", 
+            "H4NY21079", 
+            "H8NY21252"
+        ], 
+        "district": "NY21"
+    }, 
+    {
+        "candidates": [
+            "H8IN04199", 
+            "H8IN04207", 
+            "H8IN04124", 
+            "H8IN04165", 
+            "H4IN04180", 
+            "H8IN04140", 
+            "H8IN04132", 
+            "H8IN04157", 
+            "H0IN04170", 
+            "H8IN04173", 
+            "H8IN04181"
+        ], 
+        "district": "IN04"
+    }, 
+    {
+        "candidates": [
+            "H2MI11133", 
+            "H8MI11320", 
+            "H8MI11338", 
+            "H8MI11346", 
+            "H8MI11304", 
+            "H8MI11312", 
+            "H8MI11270", 
+            "H8MI11288", 
+            "H8MI11262", 
+            "H8MI11254", 
+            "H4MI11097"
+        ], 
+        "district": "MI11"
+    }, 
+    {
+        "candidates": [
+            "H8MN01246", 
+            "H8MN01287", 
+            "H8MN01279", 
+            "H0MN01045", 
+            "H8MN01253", 
+            "H8MN01261", 
+            "H8MN01311", 
+            "H8MN01329", 
+            "H8MN01295", 
+            "H6MN01174", 
+            "H8MN01303"
+        ], 
+        "district": "MN01"
+    }, 
+    {
+        "candidates": [
+            "H8VA10148", 
+            "H8VA10163", 
+            "H4VA10089", 
+            "H8VA10122", 
+            "H8VA10114", 
+            "H8VA10080", 
+            "H0VA10129", 
+            "H8VA10171", 
+            "H8VA10130", 
+            "H8VA10098", 
+            "H8VA10106"
+        ], 
+        "district": "VA10"
+    }, 
+    {
+        "candidates": [
+            "H8TX06209", 
+            "H4TX06117", 
+            "H8TX06241", 
+            "H8TX06258", 
+            "H8TX06191", 
+            "H8TX06225", 
+            "H8TX06183", 
+            "H8TX06217", 
+            "H8TX06175", 
+            "H6TX06203", 
+            "H8TX06233"
+        ], 
+        "district": "TX06"
+    }, 
+    {
+        "candidates": [
+            "H8IL06139", 
+            "H8IL06147", 
+            "H8IL06170", 
+            "H6IL06166", 
+            "H8IL06162", 
+            "H8IL06121", 
+            "H8IL06089", 
+            "H6IL06117", 
+            "H8IL06097", 
+            "H8IL06154", 
+            "H8IL06105"
+        ], 
+        "district": "IL06"
+    }, 
+    {
+        "candidates": [
+            "H8PA18173", 
+            "H8PA18165", 
+            "H8PA18223", 
+            "H8PA18181", 
+            "H2PA18143", 
+            "H8PA18249", 
+            "H8PA18199", 
+            "H8PA18231", 
+            "H8PA18157", 
+            "H8PA18215"
+        ], 
+        "district": "PA18"
+    }, 
+    {
+        "candidates": [
+            "H8NY23191", 
+            "H8NY23175", 
+            "H8NY23142", 
+            "H8NY23167", 
+            "H8NY23159", 
+            "H8NY23183", 
+            "H0NY29054", 
+            "H8NY23134", 
+            "H8NY23209", 
+            "H8NY23217"
+        ], 
+        "district": "NY23"
+    }, 
+    {
+        "candidates": [
+            "H8NM02198", 
+            "H8NM02123", 
+            "H8NM02156", 
+            "H8NM02115", 
+            "H8NM02149", 
+            "H8NM02073", 
+            "H2NM02126", 
+            "H8NM02180", 
+            "H8NM02172", 
+            "H8NM02164"
+        ], 
+        "district": "NM02"
+    }, 
+    {
+        "candidates": [
+            "H8NY11097", 
+            "H8NY11089", 
+            "H6NY11174", 
+            "H8NY11071", 
+            "H0NY13074", 
+            "H8NY11063", 
+            "H8NY11139", 
+            "H8NY11113", 
+            "H8NY11121", 
+            "H8NY11105"
+        ], 
+        "district": "NY11"
+    }, 
+    {
+        "candidates": [
+            "H8CO02194", 
+            "H8CO02228", 
+            "H8CO02210", 
+            "H8CO02160", 
+            "H8CO02137", 
+            "H8CO02186", 
+            "H8CO02236", 
+            "H8CO02244", 
+            "H8CO02202", 
+            "H8CO02251"
+        ], 
+        "district": "CO02"
+    }, 
+    {
+        "candidates": [
+            "H8KS02207", 
+            "H8KS02173", 
+            "H8KS02132", 
+            "H8KS02140", 
+            "H8KS02090", 
+            "H8KS02181", 
+            "H8KS02165", 
+            "H8KS02124", 
+            "H8KS02157", 
+            "H8KS02199"
+        ], 
+        "district": "KS02"
+    }, 
+    {
+        "candidates": [
+            "H8NH01152", 
+            "H8NH01228", 
+            "H6NH02196", 
+            "H8NH01202", 
+            "H8NH01194", 
+            "H8NH01210", 
+            "H8NH01160", 
+            "H6NH01230", 
+            "H8NH01178", 
+            "H8NH01186"
+        ], 
+        "district": "NH01"
+    }, 
+    {
+        "candidates": [
+            "H8TX16117", 
+            "H8TX16109", 
+            "H8TX16083", 
+            "H8TX16091", 
+            "H8TX16125", 
+            "H8TX16075", 
+            "H2TX16185", 
+            "H8TX16133", 
+            "H2TX16227"
+        ], 
+        "district": "TX16"
+    }, 
+    {
+        "candidates": [
+            "H8CA45189", 
+            "H8CA45197", 
+            "H8CA45155", 
+            "H8CA45148", 
+            "H8CA45130", 
+            "H8CA45171", 
+            "H8CA45163", 
+            "H2CA48095", 
+            "H4CA45097"
+        ], 
+        "district": "CA45"
+    }, 
+    {
+        "candidates": [
+            "H8NY19215", 
+            "H8NY19165", 
+            "H8NY19231", 
+            "H8NY19181", 
+            "H6NY19169", 
+            "H8NY19173", 
+            "H8NY19199", 
+            "H8NY19223", 
+            "H8NY19207"
+        ], 
+        "district": "NY19"
+    }, 
+    {
+        "candidates": [
+            "H8ID01124", 
+            "H8ID01157", 
+            "H0ID01253", 
+            "H4ID01065", 
+            "H8ID01140", 
+            "H8ID01173", 
+            "H8ID01108", 
+            "H8ID01132", 
+            "H8ID01165"
+        ], 
+        "district": "ID01"
+    }, 
+    {
+        "candidates": [
+            "H6CA25177", 
+            "H8CA25066", 
+            "H8CA25090", 
+            "H8CA25108", 
+            "H8CA25074", 
+            "H4CA25123", 
+            "H8CA25124", 
+            "H8CA25116", 
+            "H8CA25082"
+        ], 
+        "district": "CA25"
+    }, 
+    {
+        "candidates": [
+            "H8AZ02102", 
+            "H8AZ02136", 
+            "H8AZ02151", 
+            "H8AZ02110", 
+            "H8AZ02144", 
+            "H2AZ08102", 
+            "H8AZ02177", 
+            "H8AZ02128", 
+            "H8AZ02169"
+        ], 
+        "district": "AZ02"
+    }, 
+    {
+        "candidates": [
+            "H8MT00101", 
+            "H8MT00119", 
+            "H8MT01224", 
+            "H8MT01240", 
+            "H4MT00050", 
+            "H4MT00084", 
+            "H8MT01232", 
+            "H8MT00127", 
+            "H4MT01041"
+        ], 
+        "district": "MT00"
+    }, 
+    {
+        "candidates": [
+            "H8IL16088", 
+            "H8IL16146", 
+            "H8IL16120", 
+            "H8IL16138", 
+            "H0IL11052", 
+            "H8IL16112", 
+            "H8IL16153", 
+            "H8IL16104", 
+            "H8IL16096"
+        ], 
+        "district": "IL16"
+    }, 
+    {
+        "candidates": [
+            "H8TX03081", 
+            "H8TX03099", 
+            "H2TX03118", 
+            "H8TX03107", 
+            "H8TX03131", 
+            "H8TX03115", 
+            "H8TX03149", 
+            "H8TX26108", 
+            "H8TX03123"
+        ], 
+        "district": "TX03"
+    }, 
+    {
+        "candidates": [
+            "H8CA39141", 
+            "H8CA39174", 
+            "H8CA39190", 
+            "H8CA39166", 
+            "H8CA39133", 
+            "H6CA39020", 
+            "H8CA39208", 
+            "H8CA39182", 
+            "H8CA39158"
+        ], 
+        "district": "CA39"
+    }, 
+    {
+        "candidates": [
+            "H8IA04130", 
+            "H8IA04098", 
+            "H8IA04114", 
+            "H2IA05072", 
+            "H8IA04080", 
+            "H8IA04122", 
+            "H8IA04106", 
+            "H6IA04134"
+        ], 
+        "district": "IA04"
+    }, 
+    {
+        "candidates": [
+            "H8WV03071", 
+            "H8WV03063", 
+            "H4WV03070", 
+            "H8WV03105", 
+            "H8WV03097", 
+            "H8WV03048", 
+            "H8WV03055", 
+            "H8WV03089"
+        ], 
+        "district": "WV03"
+    }, 
+    {
+        "candidates": [
+            "H8VA07060", 
+            "H6VA07148", 
+            "H4VA07143", 
+            "H8VA07110", 
+            "H8VA07102", 
+            "H8VA07078", 
+            "H8VA07094", 
+            "H8VA07086"
+        ], 
+        "district": "VA07"
+    }, 
+    {
+        "candidates": [
+            "H8VA02053", 
+            "H6VA02115", 
+            "H8VA02061", 
+            "H8VA02087", 
+            "H8VA02079", 
+            "H8VA02103", 
+            "H8VA02095", 
+            "H0VA02118"
+        ], 
+        "district": "VA02"
+    }, 
+    {
+        "candidates": [
+            "H8TX22263", 
+            "H4TX22163", 
+            "H8TX22248", 
+            "H8TX22255", 
+            "H8TX22107", 
+            "H8TX22206", 
+            "H8TX22222", 
+            "H8TX22230"
+        ], 
+        "district": "TX22"
+    }, 
+    {
+        "candidates": [
+            "H8CA50114", 
+            "H8CA50106", 
+            "H8CA50098", 
+            "H8CA50080", 
+            "H8CA52052", 
+            "H6CA50258", 
+            "H8CA50148", 
+            "H8CA50122"
+        ], 
+        "district": "CA50"
+    }, 
+    {
+        "candidates": [
+            "H8PA07135", 
+            "H4PA13181", 
+            "H8PA07093", 
+            "H0PA07082", 
+            "H8PA07127", 
+            "H8PA07101", 
+            "H8PA07143", 
+            "H8PA07119"
+        ], 
+        "district": "PA07"
+    }, 
+    {
+        "candidates": [
+            "H8GA07144", 
+            "H8GA07201", 
+            "H8GA07185", 
+            "H8GA07193", 
+            "H8GA07151", 
+            "H8GA07177", 
+            "H8GA07169", 
+            "H0GA07133"
+        ], 
+        "district": "GA07"
+    }, 
+    {
+        "candidates": [
+            "H8AZ09016", 
+            "H8AZ09024", 
+            "H6AZ05133", 
+            "H6AZ09010", 
+            "H8AZ09032", 
+            "H8AZ09057", 
+            "H2AZ09019", 
+            "H8AZ09040"
+        ], 
+        "district": "AZ09"
+    }, 
+    {
+        "candidates": [
+            "H8CO06237", 
+            "H8CO06138", 
+            "H8CO06229", 
+            "H8CO06260", 
+            "H8CO06211", 
+            "H8C006211", 
+            "H8CO06252", 
+            "H8CO06245"
+        ], 
+        "district": "CO06"
+    }, 
+    {
+        "candidates": [
+            "H8NC02102", 
+            "H8NC02110", 
+            "H2NC13110", 
+            "H8NC02078", 
+            "H8NC02128", 
+            "H8NC02094", 
+            "H8NC02086", 
+            "H8NC02060"
+        ], 
+        "district": "NC02"
+    }, 
+    {
+        "candidates": [
+            "H8NJ07207", 
+            "H6NJ07151", 
+            "H8NJ07215", 
+            "H6NJ12136", 
+            "H8NJ07223", 
+            "H8NJ07199", 
+            "H8NJ07181", 
+            "H8NJ07173"
+        ], 
+        "district": "NJ07"
+    }, 
+    {
+        "candidates": [
+            "H8FL15198", 
+            "H8FL15180", 
+            "H8FL15156", 
+            "H8FL15164", 
+            "H8FL15131", 
+            "H8FL15149", 
+            "H0FL12101", 
+            "H8FL15172"
+        ], 
+        "district": "FL15"
+    }, 
+    {
+        "candidates": [
+            "H8NJ11167", 
+            "H8NJ11191", 
+            "H2NJ05014", 
+            "H8NJ11134", 
+            "H8NJ11175", 
+            "H8NJ11159", 
+            "H8NJ11142", 
+            "H8NJ11183"
+        ], 
+        "district": "NJ11"
+    }, 
+    {
+        "candidates": [
+            "H8TX07090", 
+            "H2TX07036", 
+            "H0TX07055", 
+            "H8TX07140", 
+            "H8TX07108", 
+            "H8TX07116", 
+            "H8TX07124", 
+            "H8TX07132"
+        ], 
+        "district": "TX07"
+    }, 
+    {
+        "candidates": [
+            "H8OH16140", 
+            "H8OH16090", 
+            "H8OH16124", 
+            "H8OH16108", 
+            "H8OH13139", 
+            "H8OH16116", 
+            "H0OH16097", 
+            "H8OH16132"
+        ], 
+        "district": "OH16"
+    }, 
+    {
+        "candidates": [
+            "H2PA11098", 
+            "H8PA11061", 
+            "H8PA11053", 
+            "H8PA11087", 
+            "H8PA10147", 
+            "H8PA11079", 
+            "H8PA11095"
+        ], 
+        "district": "PA11"
+    }, 
+    {
+        "candidates": [
+            "H8MI06130", 
+            "H4MI06105", 
+            "H8MI06148", 
+            "H8MI06163", 
+            "H8MI06122", 
+            "H8MI06155", 
+            "H6MI04113"
+        ], 
+        "district": "MI06"
+    }, 
+    {
+        "candidates": [
+            "H8TX25118", 
+            "H8TX25142", 
+            "H8TX25159", 
+            "H8TX25134", 
+            "H8TX21174", 
+            "H8TX25126", 
+            "H2TX33040"
+        ], 
+        "district": "TX25"
+    }, 
+    {
+        "candidates": [
+            "H8IN09081", 
+            "H8IN09115", 
+            "H8IN09099", 
+            "H6IN09176", 
+            "H8IN09123", 
+            "H8IN09073", 
+            "H8IN09107"
+        ], 
+        "district": "IN09"
+    }, 
+    {
+        "candidates": [
+            "H8IN02144", 
+            "H4IN02150", 
+            "H8IN02177", 
+            "H8IN02169", 
+            "H8IN02185", 
+            "H8IN02151", 
+            "H0IN02190"
+        ], 
+        "district": "IN02"
+    }, 
+    {
+        "candidates": [
+            "H8IN06095", 
+            "H8IN06111", 
+            "H8IN06079", 
+            "H8IN06103", 
+            "H0IN02125", 
+            "H8IN06129", 
+            "H8IN06087"
+        ], 
+        "district": "IN06"
+    }, 
+    {
+        "candidates": [
+            "H8KS03098", 
+            "H8KS03080", 
+            "H8KS03114", 
+            "H8KS03106", 
+            "H6KS03241", 
+            "H8KS03122", 
+            "H0KS03137"
+        ], 
+        "district": "KS03"
+    }, 
+    {
+        "candidates": [
+            "H8AZ08075", 
+            "H4AZ04024", 
+            "H8AZ08109", 
+            "H8AZ08067", 
+            "H8AZ08091", 
+            "H8AZ08083", 
+            "H8AZ08059"
+        ], 
+        "district": "AZ08"
+    }, 
+    {
+        "candidates": [
+            "H8IL12103", 
+            "H4IL12060", 
+            "H8IL12087", 
+            "H8IL12129", 
+            "H8IL12137", 
+            "H8IL12111", 
+            "H8IL12095"
+        ], 
+        "district": "IL12"
+    }, 
+    {
+        "candidates": [
+            "H6OH12127", 
+            "H8OH12123", 
+            "H8OH12149", 
+            "H8OH12164", 
+            "H0OH12062", 
+            "H8OH12156", 
+            "H8OH12131"
+        ], 
+        "district": "OH12"
+    }, 
+    {
+        "candidates": [
+            "H6NH02162", 
+            "H0NH02181", 
+            "H8NH02267", 
+            "H6NH02220", 
+            "H8NH02275", 
+            "H8NH02242", 
+            "H8NH02259"
+        ], 
+        "district": "NH02"
+    }, 
+    {
+        "candidates": [
+            "H8NY01197", 
+            "H8NY01189", 
+            "H8NY01155", 
+            "H8NY01171", 
+            "H8NY01163", 
+            "H2NY01042", 
+            "H8NY01148"
+        ], 
+        "district": "NY01"
+    }, 
+    {
+        "candidates": [
+            "H8OR02153", 
+            "H6OR02181", 
+            "H8OR02161", 
+            "H6OR02116", 
+            "H8OR02146", 
+            "H8OR02138"
+        ], 
+        "district": "OR02"
+    }, 
+    {
+        "candidates": [
+            "H8SD01097", 
+            "H8SD01055", 
+            "H8SD01063", 
+            "H8SD01071", 
+            "H0SD00054", 
+            "H8SD01089"
+        ], 
+        "district": "SD00"
+    }, 
+    {
+        "candidates": [
+            "H8VA06104", 
+            "H8VA06088", 
+            "H8VA06096", 
+            "H2VA06115", 
+            "H8VA06112", 
+            "H8VA06070"
+        ], 
+        "district": "VA06"
+    }, 
+    {
+        "candidates": [
+            "H8VA05155", 
+            "H8VA05148", 
+            "H6VA05142", 
+            "H8VA05114", 
+            "H8VA05130", 
+            "H8VA05122"
+        ], 
+        "district": "VA05"
+    }, 
+    {
+        "candidates": [
+            "H8TX11126", 
+            "H8TX11092", 
+            "H4TX19136", 
+            "H8TX11100", 
+            "H8TX11134", 
+            "H8TX11118"
+        ], 
+        "district": "TX11"
+    }, 
+    {
+        "candidates": [
+            "H8PA12077", 
+            "H8PA12101", 
+            "H8PA12069", 
+            "H0PA04220", 
+            "H8PA12093", 
+            "H8PA12085"
+        ], 
+        "district": "PA12"
+    }, 
+    {
+        "candidates": [
+            "H8WI01123", 
+            "H8WI01131", 
+            "H6WI01226", 
+            "H8WI01149", 
+            "H8WI01024", 
+            "H8WI01115"
+        ], 
+        "district": "WI01"
+    }, 
+    {
+        "candidates": [
+            "H8WI05157", 
+            "H8WI05165", 
+            "H8WI05140", 
+            "H8WI05132", 
+            "H8WI09050", 
+            "H8WI05173"
+        ], 
+        "district": "WI05"
+    }, 
+    {
+        "candidates": [
+            "H8TX29078", 
+            "H8TX29052", 
+            "H2TX29030", 
+            "H8TX29086", 
+            "H8TX29045", 
+            "H8TX29060"
+        ], 
+        "district": "TX29"
+    }, 
+    {
+        "candidates": [
+            "H8TX26074", 
+            "H8TX26090", 
+            "H2TX26093", 
+            "H8TX26124", 
+            "H8TX26082", 
+            "H8TX26116"
+        ], 
+        "district": "TX26"
+    }, 
+    {
+        "candidates": [
+            "H8TX23113", 
+            "H8TX23154", 
+            "H8TX23147", 
+            "H0TX23086", 
+            "H8TX23121", 
+            "H8TX23139"
+        ], 
+        "district": "TX23"
+    }, 
+    {
+        "candidates": [
+            "H8CA52136", 
+            "H8CA50130", 
+            "H8CA52128", 
+            "H2CA52089", 
+            "H8CA52102", 
+            "H8CA52110"
+        ], 
+        "district": "CA52"
+    }, 
+    {
+        "candidates": [
+            "H2CA00120", 
+            "H8CA26122", 
+            "H4CA26139", 
+            "H8CA26130", 
+            "H8CA26114", 
+            "H8CA26106"
+        ], 
+        "district": "CA26"
+    }, 
+    {
+        "candidates": [
+            "H8GA01048", 
+            "H4GA01039", 
+            "H8GA01055", 
+            "H8GA01030", 
+            "H8GA01063", 
+            "H8GA01071"
+        ], 
+        "district": "GA01"
+    }, 
+    {
+        "candidates": [
+            "H8CO07086", 
+            "H8CO07052", 
+            "H8CO07060", 
+            "H8CO07078", 
+            "H6CO07023", 
+            "H8CO07045"
+        ], 
+        "district": "CO07"
+    }, 
+    {
+        "candidates": [
+            "H4CO04090", 
+            "H8CO04075", 
+            "H8CO04117", 
+            "H8CO04083", 
+            "H8CO04091", 
+            "H8CO04109"
+        ], 
+        "district": "CO04"
+    }, 
+    {
+        "candidates": [
+            "H8CO05122", 
+            "H8CO05148", 
+            "H8CO05114", 
+            "H6CO05159", 
+            "H8CO05155", 
+            "H8CO05130"
+        ], 
+        "district": "CO05"
+    }, 
+    {
+        "candidates": [
+            "H0AL05163", 
+            "H8AL05174", 
+            "H8AL05208", 
+            "H8AL05216", 
+            "H8AL05190", 
+            "H8AL05182"
+        ], 
+        "district": "AL05"
+    }, 
+    {
+        "candidates": [
+            "H6NC09184", 
+            "H8NC09131", 
+            "H8NC09107", 
+            "H8NC09123", 
+            "H2NC09134", 
+            "H8NC09115"
+        ], 
+        "district": "NC09"
+    }, 
+    {
+        "candidates": [
+            "H2TX31044", 
+            "H6TX31045", 
+            "H8TX31058", 
+            "H8TX31041", 
+            "H8TX31033", 
+            "H6TX31052"
+        ], 
+        "district": "TX31"
+    }, 
+    {
+        "candidates": [
+            "H2IL13120", 
+            "H8IL13176", 
+            "H6IL13113", 
+            "H8IL13168", 
+            "H8IL13150", 
+            "H8IL13143"
+        ], 
+        "district": "IL13"
+    }, 
+    {
+        "candidates": [
+            "H8IL14166", 
+            "H0IL14080", 
+            "H8IL14141", 
+            "H8IL14174", 
+            "H6IL14129", 
+            "H8IL14158"
+        ], 
+        "district": "IL14"
+    }, 
+    {
+        "candidates": [
+            "H8TX05102", 
+            "H8TX05110", 
+            "H2TX05121", 
+            "H8TX05128", 
+            "H8TX05094", 
+            "H8TX05086"
+        ], 
+        "district": "TX05"
+    }, 
+    {
+        "candidates": [
+            "H8OH14129", 
+            "H8OH14137", 
+            "H8OH14145", 
+            "H2OH14064", 
+            "H4OH14110", 
+            "H8OH14111"
+        ], 
+        "district": "OH14"
+    }, 
+    {
+        "candidates": [
+            "H8UT04012", 
+            "H2UT04023", 
+            "H8UT04053", 
+            "H8UT04046", 
+            "H8UT04020", 
+            "H8UT04038"
+        ], 
+        "district": "UT04"
+    }, 
+    {
+        "candidates": [
+            "H8CA04194", 
+            "H8CA04202", 
+            "H8CA04228", 
+            "H8CA04152", 
+            "H8CA04210", 
+            "H8CA04186"
+        ], 
+        "district": "CA04"
+    }, 
+    {
+        "candidates": [
+            "H2IA01055", 
+            "H8IA01094", 
+            "H8IA01128", 
+            "H8IA01110", 
+            "H8IA01102"
+        ], 
+        "district": "IA01"
+    }, 
+    {
+        "candidates": [
+            "H8SC07048", 
+            "H8SC07014", 
+            "H8SC07030", 
+            "H2SC07066", 
+            "H8SC07022"
+        ], 
+        "district": "SC07"
+    }, 
+    {
+        "candidates": [
+            "H8SC01124", 
+            "H8SC01116", 
+            "H8SC01108", 
+            "H8SC01090", 
+            "H4SC01073"
+        ], 
+        "district": "SC01"
+    }, 
+    {
+        "candidates": [
+            "H8IL10115", 
+            "H2IL10092", 
+            "H2IL10068", 
+            "H8IL10131", 
+            "H8IL10123"
+        ], 
+        "district": "IL10"
+    }, 
+    {
+        "candidates": [
+            "H8VA01287", 
+            "H8VA01253", 
+            "H8VA01261", 
+            "H8VA01295", 
+            "H8VA01147"
+        ], 
+        "district": "VA01"
+    }, 
+    {
+        "candidates": [
+            "H8TX10094", 
+            "H4TX10093", 
+            "H8TX10110", 
+            "H8TX10086", 
+            "H8TX10102"
+        ], 
+        "district": "TX10"
+    }, 
+    {
+        "candidates": [
+            "H8TX14138", 
+            "H8TX14120", 
+            "H8TX14153", 
+            "H8TX14146", 
+            "H2TX14149"
+        ], 
+        "district": "TX14"
+    }, 
+    {
+        "candidates": [
+            "H6TX18141", 
+            "H8TX18170", 
+            "H4TX18054", 
+            "H6TX18158", 
+            "H8TX18162"
+        ], 
+        "district": "TX18"
+    }, 
+    {
+        "candidates": [
+            "H2CA37023", 
+            "H8CA42228", 
+            "H8CA42251", 
+            "H8CA42244", 
+            "H8CA42236"
+        ], 
+        "district": "CA42"
+    }, 
+    {
+        "candidates": [
+            "H8CA43127", 
+            "H8CA43143", 
+            "H8CA43135", 
+            "H6CA44145", 
+            "H4CA23011"
+        ], 
+        "district": "CA43"
+    }, 
+    {
+        "candidates": [
+            "H6CA49102", 
+            "H0CA48024", 
+            "H8CA49074", 
+            "H8CA49066", 
+            "H8CA49058"
+        ], 
+        "district": "CA49"
+    }, 
+    {
+        "candidates": [
+            "H8CA12247", 
+            "H4CA12089", 
+            "H8CA12239", 
+            "H8CA12254", 
+            "H8CA05035"
+        ], 
+        "district": "CA12"
+    }, 
+    {
+        "candidates": [
+            "H8MI03079", 
+            "H0MI03126", 
+            "H6MI03172", 
+            "H8MI03053", 
+            "H8MI03061"
+        ], 
+        "district": "MI03"
+    }, 
+    {
+        "candidates": [
+            "H8NY27119", 
+            "H8NY27135", 
+            "H8NY27127", 
+            "H8NY29032", 
+            "H8NY27143"
+        ], 
+        "district": "NY27"
+    }, 
+    {
+        "candidates": [
+            "H8FL07062", 
+            "H6FL07140", 
+            "H8FL07054", 
+            "H8FL07070", 
+            "H6FL07132"
+        ], 
+        "district": "FL07"
+    }, 
+    {
+        "candidates": [
+            "H8FL06106", 
+            "H2FL00292", 
+            "H8FL06114", 
+            "H8FL06098", 
+            "H8FL06122"
+        ], 
+        "district": "FL06"
+    }, 
+    {
+        "candidates": [
+            "H8NC10105", 
+            "H8NC10097", 
+            "H4NC10047", 
+            "H8NC10089", 
+            "H8NC10071"
+        ], 
+        "district": "NC10"
+    }, 
+    {
+        "candidates": [
+            "H2IN05082", 
+            "H8IN05147", 
+            "H8IN05154", 
+            "H8IN05139", 
+            "H8IN05162"
+        ], 
+        "district": "IN05"
+    }, 
+    {
+        "candidates": [
+            "H8CA28177", 
+            "H8CA28185", 
+            "H8CA28169", 
+            "H0CA27085", 
+            "H8CA28193"
+        ], 
+        "district": "CA28"
+    }, 
+    {
+        "candidates": [
+            "H8CA23103", 
+            "H6CA22125", 
+            "H8CA23095", 
+            "H6CA23206", 
+            "H8CA23111"
+        ], 
+        "district": "CA23"
+    }, 
+    {
+        "candidates": [
+            "H8AZ06103", 
+            "H8AZ06087", 
+            "H8AZ06095", 
+            "H4AZ06045", 
+            "H2AZ05132"
+        ], 
+        "district": "AZ06"
+    }, 
+    {
+        "candidates": [
+            "H8AZ01211", 
+            "H6AZ01199", 
+            "H6AZ01181", 
+            "H8AZ01237", 
+            "H8AZ01229"
+        ], 
+        "district": "AZ01"
+    }, 
+    {
+        "candidates": [
+            "H6CO01141", 
+            "H8CO01097", 
+            "H8CO01121", 
+            "H8CO01113", 
+            "H8CO01105"
+        ], 
+        "district": "CO01"
+    }, 
+    {
+        "candidates": [
+            "H8AL02189", 
+            "H8AL02197", 
+            "H8AL02171", 
+            "H0AL02087", 
+            "H8AL02163"
+        ], 
+        "district": "AL02"
+    }, 
+    {
+        "candidates": [
+            "H8MA02066", 
+            "H4MA03022", 
+            "H8MA02090", 
+            "H8MA02082", 
+            "H8MA02074"
+        ], 
+        "district": "MA02"
+    }, 
+    {
+        "candidates": [
+            "H8MN03135", 
+            "H8MN03150", 
+            "H8MN03077", 
+            "H8MN03143", 
+            "H8MN03127"
+        ], 
+        "district": "MN03"
+    }, 
+    {
+        "candidates": [
+            "H8NY03151", 
+            "H6NY03254", 
+            "H8NY03169", 
+            "H8NY03177", 
+            "H6NY03247"
+        ], 
+        "district": "NY03"
+    }, 
+    {
+        "candidates": [
+            "H8NC05063", 
+            "H4NC05146", 
+            "H8NC05055", 
+            "H8NC05071", 
+            "H8NC05089"
+        ], 
+        "district": "NC05"
+    }, 
+    {
+        "candidates": [
+            "H8FL11106", 
+            "H6FL08213", 
+            "H8FL11122", 
+            "H8FL11114", 
+            "H0FL08208"
+        ], 
+        "district": "FL11"
+    }, 
+    {
+        "candidates": [
+            "H6FL09070", 
+            "H8FL12070", 
+            "H6FL12181", 
+            "H8FL12062", 
+            "H6FL13197"
+        ], 
+        "district": "FL12"
+    }, 
+    {
+        "candidates": [
+            "H2OK01143", 
+            "H8OK01124", 
+            "H0OK01089", 
+            "H8OK01165", 
+            "H8OK01157"
+        ], 
+        "district": "OK01"
+    }, 
+    {
+        "candidates": [
+            "H8WA03172", 
+            "H8WA03180", 
+            "H0WA03187", 
+            "H8WA03198", 
+            "H6WA03184"
+        ], 
+        "district": "WA03"
+    }, 
+    {
+        "candidates": [
+            "H8WA05185", 
+            "H8WA05193", 
+            "H4WA05077", 
+            "H8WA05169", 
+            "H8WA05177"
+        ], 
+        "district": "WA05"
+    }, 
+    {
+        "candidates": [
+            "H4FL26038", 
+            "H8FL26047", 
+            "H8FL26021", 
+            "H8FL26039", 
+            "H8FL26013"
+        ], 
+        "district": "FL26"
+    }, 
+    {
+        "candidates": [
+            "H6FL23063", 
+            "H2FL20043", 
+            "H8FL23051", 
+            "H8FL23044", 
+            "H4FL20023"
+        ], 
+        "district": "FL23"
+    }, 
+    {
+        "candidates": [
+            "H8GA10130", 
+            "H0GA07125", 
+            "H8GA10163", 
+            "H8GA10148", 
+            "H8GA10155"
+        ], 
+        "district": "GA10"
+    }, 
+    {
+        "candidates": [
+            "H8TX01044", 
+            "H6TX01253", 
+            "H4TX04039", 
+            "H2TX01062", 
+            "H8TX01051"
+        ], 
+        "district": "TX01"
+    }, 
+    {
+        "candidates": [
+            "H8CA34340", 
+            "H8CA34100", 
+            "H2CA30143", 
+            "H8CA34126", 
+            "H8CA34225"
+        ], 
+        "district": "CA34"
+    }, 
+    {
+        "candidates": [
+            "H8CA36162", 
+            "H8CA36196", 
+            "H8CA36170", 
+            "H2CA36439", 
+            "H8CA36188"
+        ], 
+        "district": "CA36"
+    }, 
+    {
+        "candidates": [
+            "H0KY06104", 
+            "H8KY06172", 
+            "H8KY06164", 
+            "H8KY06156", 
+            "H4KY06163"
+        ], 
+        "district": "KY06"
+    }, 
+    {
+        "candidates": [
+            "H8UT02248", 
+            "H8UT02255", 
+            "H8UT02222", 
+            "H2UT02324", 
+            "H8UT02230"
+        ], 
+        "district": "UT02"
+    }, 
+    {
+        "candidates": [
+            "H8CA08104", 
+            "H2CA08164", 
+            "H8CA08120", 
+            "H8CA08112", 
+            "H8CA08096"
+        ], 
+        "district": "CA08"
+    }, 
+    {
+        "candidates": [
+            "H8CA07072", 
+            "H0CA03078", 
+            "H8CA07056", 
+            "H6CA06243", 
+            "H8CA07064"
+        ], 
+        "district": "CA07"
+    }, 
+    {
+        "candidates": [
+            "H8CA01224", 
+            "H8CA01190", 
+            "H2CA02142", 
+            "H8CA01216", 
+            "H8CA01208"
+        ], 
+        "district": "CA01"
+    }, 
+    {
+        "candidates": [
+            "H6IL09145", 
+            "H8IL09174", 
+            "H8IL09190", 
+            "H8IL09067", 
+            "H8IL09182"
+        ], 
+        "district": "IL09"
+    }, 
+    {
+        "candidates": [
+            "H8MO07199", 
+            "H8MO07173", 
+            "H8MO07207", 
+            "H8MO07181", 
+            "H0MO07113"
+        ], 
+        "district": "MO07"
+    }, 
+    {
+        "candidates": [
+            "H8IL17045", 
+            "H8IL07103", 
+            "H4IL07037", 
+            "H8IL07111", 
+            "H8IL07095"
+        ], 
+        "district": "IL07"
+    }, 
+    {
+        "candidates": [
+            "H8MO02190", 
+            "H8MO02224", 
+            "H8MO02216", 
+            "H8MO02208", 
+            "H2MO02102"
+        ], 
+        "district": "MO02"
+    }, 
+    {
+        "candidates": [
+            "H8IL04159", 
+            "H8IL04134", 
+            "H8IL04126", 
+            "H2IL08039", 
+            "H8IL04142"
+        ], 
+        "district": "IL04"
+    }, 
+    {
+        "candidates": [
+            "H8IL15072", 
+            "H8IL15064", 
+            "H2IL20042", 
+            "H8IL15056"
+        ], 
+        "district": "IL15"
+    }, 
+    {
+        "candidates": [
+            "H8TX12074", 
+            "H6TX12060", 
+            "H8TX12090", 
+            "H8TX12082"
+        ], 
+        "district": "TX12"
+    }, 
+    {
+        "candidates": [
+            "H0TX17104", 
+            "H8TX17149", 
+            "H8TX17131", 
+            "H8TX17123"
+        ], 
+        "district": "TX17"
+    }, 
+    {
+        "candidates": [
+            "H8OH01100", 
+            "H8OH01043", 
+            "H8OH01092", 
+            "H8OH01084"
+        ], 
+        "district": "OH01"
+    }, 
+    {
+        "candidates": [
+            "H8PA16060", 
+            "H6PA16296", 
+            "H8PA16078", 
+            "H6PA16320"
+        ], 
+        "district": "PA16"
+    }, 
+    {
+        "candidates": [
+            "H2PA17079", 
+            "H8PA17050", 
+            "H8PA17068", 
+            "H8PA17043"
+        ], 
+        "district": "PA17"
+    }, 
+    {
+        "candidates": [
+            "H4MI08135", 
+            "H8MI08094", 
+            "H8MI08102", 
+            "H8MI08110"
+        ], 
+        "district": "MI08"
+    }, 
+    {
+        "candidates": [
+            "H8MI09100", 
+            "H8MI09118", 
+            "H2MI17023", 
+            "H8MI09092"
+        ], 
+        "district": "MI09"
+    }, 
+    {
+        "candidates": [
+            "H6MI01226", 
+            "H8MI01164", 
+            "H4MI01130", 
+            "H8MI01149"
+        ], 
+        "district": "MI01"
+    }, 
+    {
+        "candidates": [
+            "H8WI03111", 
+            "H6WI03099", 
+            "H8WI03103", 
+            "H0WI03092"
+        ], 
+        "district": "WI03"
+    }, 
+    {
+        "candidates": [
+            "H4WI06048", 
+            "H8WI06098", 
+            "H6WI06100", 
+            "H8WI06080"
+        ], 
+        "district": "WI06"
+    }, 
+    {
+        "candidates": [
+            "H8NY24090", 
+            "H4NY24073", 
+            "H8NY24074", 
+            "H8NY24082"
+        ], 
+        "district": "NY24"
+    }, 
+    {
+        "candidates": [
+            "H8NY22151", 
+            "H8NY22144", 
+            "H8NY22169", 
+            "H4NY22051"
+        ], 
+        "district": "NY22"
+    }, 
+    {
+        "candidates": [
+            "H8MS04438", 
+            "H0MS04120", 
+            "H8MS04453", 
+            "H8MS04446"
+        ], 
+        "district": "MS04"
+    }, 
+    {
+        "candidates": [
+            "H8TX24103", 
+            "H8TX24111", 
+            "H4TX24094", 
+            "H6TX24149"
+        ], 
+        "district": "TX24"
+    }, 
+    {
+        "candidates": [
+            "H6FL01168", 
+            "H8FL01107", 
+            "H6FL01119", 
+            "H6FL01143"
+        ], 
+        "district": "FL01"
+    }, 
+    {
+        "candidates": [
+            "H8TX27049", 
+            "H0TX27061", 
+            "H8TX27056", 
+            "H8TX27031"
+        ], 
+        "district": "TX27"
+    }, 
+    {
+        "candidates": [
+            "H8NC11095", 
+            "H2NC11080", 
+            "H8NC11111", 
+            "H8NC11103"
+        ], 
+        "district": "NC11"
+    }, 
+    {
+        "candidates": [
+            "H8NJ04162", 
+            "H8NJ04170", 
+            "H8NJ04014", 
+            "H8NJ04188"
+        ], 
+        "district": "NJ04"
+    }, 
+    {
+        "candidates": [
+            "H6NJ05171", 
+            "H8NJ05110", 
+            "H8NJ05136", 
+            "H8NJ05128"
+        ], 
+        "district": "NJ05"
+    }, 
+    {
+        "candidates": [
+            "H2NJ02037", 
+            "H8NJ02158", 
+            "H8NJ02166", 
+            "H8NJ02141"
+        ], 
+        "district": "NJ02"
+    }, 
+    {
+        "candidates": [
+            "H8NJ03198", 
+            "H6NJ03143", 
+            "H8NJ03206", 
+            "H4NJ03130"
+        ], 
+        "district": "NJ03"
+    }, 
+    {
+        "candidates": [
+            "H8CA22154", 
+            "H8CA22147", 
+            "H8CA22139", 
+            "H8CA20059"
+        ], 
+        "district": "CA22"
+    }, 
+    {
+        "candidates": [
+            "H0TN06257", 
+            "H8TN06086", 
+            "H8TN06078", 
+            "H8TN06094"
+        ], 
+        "district": "TN06"
+    }, 
+    {
+        "candidates": [
+            "H2TN06030", 
+            "H8TN07076", 
+            "H8TN07068", 
+            "H8TN07084"
+        ], 
+        "district": "TN07"
+    }, 
+    {
+        "candidates": [
+            "H0TN04195", 
+            "H8TN04081", 
+            "H8TN04099", 
+            "H6TN04200"
+        ], 
+        "district": "TN04"
+    }, 
+    {
+        "candidates": [
+            "H8GA03051", 
+            "H6GA03113", 
+            "H8GA03069", 
+            "H8GA03044"
+        ], 
+        "district": "GA03"
+    }, 
+    {
+        "candidates": [
+            "H8GA06377", 
+            "H8GA06369", 
+            "H8GA06179", 
+            "H4GA06087"
+        ], 
+        "district": "GA06"
+    }, 
+    {
+        "candidates": [
+            "H8GA08092", 
+            "H8GA08068", 
+            "H0GA08099", 
+            "H8GA08076"
+        ], 
+        "district": "GA08"
+    }, 
+    {
+        "candidates": [
+            "H8MD04213", 
+            "H6MD04209", 
+            "H4MD04071", 
+            "H6MD04282"
+        ], 
+        "district": "MD04"
+    }, 
+    {
+        "candidates": [
+            "H8MD01193", 
+            "H8MD01177", 
+            "H8MD01094", 
+            "H8MD01185"
+        ], 
+        "district": "MD01"
+    }, 
+    {
+        "candidates": [
+            "H6AZ03245", 
+            "H2AZ07070", 
+            "H6AZ03179", 
+            "H2AZ07161"
+        ], 
+        "district": "AZ03"
+    }, 
+    {
+        "candidates": [
+            "H6AL04098", 
+            "H8AL04078", 
+            "H8AL04086", 
+            "H8AL04060"
+        ], 
+        "district": "AL04"
+    }, 
+    {
+        "candidates": [
+            "H8MA06091", 
+            "H4MA06090", 
+            "H8MA06117", 
+            "H8MA06109"
+        ], 
+        "district": "MA06"
+    }, 
+    {
+        "candidates": [
+            "H6MN07304", 
+            "H8MN07086", 
+            "H2MN07014", 
+            "H8MN07094"
+        ], 
+        "district": "MN07"
+    }, 
+    {
+        "candidates": [
+            "H8NC04082", 
+            "H8NC04090", 
+            "H6NC04037", 
+            "H8NC04108"
+        ], 
+        "district": "NC04"
+    }, 
+    {
+        "candidates": [
+            "H8NC07093", 
+            "H8NC07119", 
+            "H8NC07101", 
+            "H2NC07096"
+        ], 
+        "district": "NC07"
+    }, 
+    {
+        "candidates": [
+            "H8NC06087", 
+            "H4NC06052", 
+            "H8NC06079", 
+            "H8NC06095"
+        ], 
+        "district": "NC06"
+    }, 
+    {
+        "candidates": [
+            "H8OH02116", 
+            "H6OH02292", 
+            "H8OH02108", 
+            "H2OH02085"
+        ], 
+        "district": "OH02"
+    }, 
+    {
+        "candidates": [
+            "H6FL11126", 
+            "H8FL14183", 
+            "H6FL14112", 
+            "H8FL14175"
+        ], 
+        "district": "FL14"
+    }, 
+    {
+        "candidates": [
+            "H8FL17038", 
+            "H4FL19058", 
+            "H8FL17020", 
+            "H8FL16022"
+        ], 
+        "district": "FL17"
+    }, 
+    {
+        "candidates": [
+            "H6FL13148", 
+            "H8FL16048", 
+            "H8FL16055", 
+            "H8FL16030"
+        ], 
+        "district": "FL16"
+    }, 
+    {
+        "candidates": [
+            "H8FL18028", 
+            "H8FL18010", 
+            "H6FL18097", 
+            "H6FL18121"
+        ], 
+        "district": "FL18"
+    }, 
+    {
+        "candidates": [
+            "H8MO01135", 
+            "H8MO01143", 
+            "H0MO01066", 
+            "H8MO01150"
+        ], 
+        "district": "MO01"
+    }, 
+    {
+        "candidates": [
+            "H8IL05123", 
+            "H0IL05096", 
+            "H8IL05131", 
+            "H8IL05115"
+        ], 
+        "district": "IL05"
+    }, 
+    {
+        "candidates": [
+            "H8LA03045", 
+            "H8LA03037", 
+            "H6LA03148", 
+            "H8LA03052"
+        ], 
+        "district": "LA03"
+    }, 
+    {
+        "candidates": [
+            "H8OK02130", 
+            "H6OK02258", 
+            "H2OK02083", 
+            "H8OK02148"
+        ], 
+        "district": "OK02"
+    }, 
+    {
+        "candidates": [
+            "H4GA11061", 
+            "H8GA11021", 
+            "H8GA11039", 
+            "H8GA11047"
+        ], 
+        "district": "GA11"
+    }, 
+    {
+        "candidates": [
+            "H8TX04154", 
+            "H8TX04162", 
+            "H4TX04153", 
+            "H8TX32080"
+        ], 
+        "district": "TX04"
+    }, 
+    {
+        "candidates": [
+            "H6TX08100", 
+            "H8TX08098", 
+            "H8TX08080", 
+            "H8TX08072"
+        ], 
+        "district": "TX08"
+    }, 
+    {
+        "candidates": [
+            "H8CA30066", 
+            "H4CA30123", 
+            "H8CA00135", 
+            "H6CA24113"
+        ], 
+        "district": "CA30"
+    }, 
+    {
+        "candidates": [
+            "H8AR04114", 
+            "H8AR04106", 
+            "H8AR04130", 
+            "H4AR04048"
+        ], 
+        "district": "AR04"
+    }, 
+    {
+        "candidates": [
+            "H8AR02126", 
+            "H8AR02142", 
+            "H4AR02141", 
+            "H8AR02134"
+        ], 
+        "district": "AR02"
+    }, 
+    {
+        "candidates": [
+            "H8MO04089", 
+            "H0MO04086", 
+            "H8MO04071", 
+            "H4MO04138"
+        ], 
+        "district": "MO04"
+    }, 
+    {
+        "candidates": [
+            "H4SC03111", 
+            "H0SC03077", 
+            "H8SC03070"
+        ], 
+        "district": "SC03"
+    }, 
+    {
+        "candidates": [
+            "H8NV04026", 
+            "H2NV00050", 
+            "H8NV04018"
+        ], 
+        "district": "NV04"
+    }, 
+    {
+        "candidates": [
+            "H8TX35018", 
+            "H4TX10028", 
+            "H8TX35026"
+        ], 
+        "district": "TX35"
+    }, 
+    {
+        "candidates": [
+            "H6TX02079", 
+            "H8TX36016", 
+            "H8TX36024"
+        ], 
+        "district": "TX36"
+    }, 
+    {
+        "candidates": [
+            "H4WV02080", 
+            "H8WV02107", 
+            "H8WV02115"
+        ], 
+        "district": "WV02"
+    }, 
+    {
+        "candidates": [
+            "H8WV01067", 
+            "H8WV01075", 
+            "H0WV01072"
+        ], 
+        "district": "WV01"
+    }, 
+    {
+        "candidates": [
+            "H8WA10029", 
+            "H8WA10011", 
+            "H0WA03161"
+        ], 
+        "district": "WA10"
+    }, 
+    {
+        "candidates": [
+            "H6TX19099", 
+            "H8TX19103", 
+            "H8TX19111"
+        ], 
+        "district": "TX19"
+    }, 
+    {
+        "candidates": [
+            "H8OH05150", 
+            "H8OH05036", 
+            "H8OH05168"
+        ], 
+        "district": "OH05"
+    }, 
+    {
+        "candidates": [
+            "H6CA41182", 
+            "H8CA41170", 
+            "H2CA43245"
+        ], 
+        "district": "CA41"
+    }, 
+    {
+        "candidates": [
+            "H4PA13199", 
+            "H8PA13091", 
+            "H8PA13109"
+        ], 
+        "district": "PA13"
+    }, 
+    {
+        "candidates": [
+            "H8PA10170", 
+            "H0PA10078", 
+            "H8PA10188"
+        ], 
+        "district": "PA10"
+    }, 
+    {
+        "candidates": [
+            "H6MS01131", 
+            "H8MS01152", 
+            "H8MS01145"
+        ], 
+        "district": "MS01"
+    }, 
+    {
+        "candidates": [
+            "H6CA17141", 
+            "H4CA12055", 
+            "H8CA17097"
+        ], 
+        "district": "CA17"
+    }, 
+    {
+        "candidates": [
+            "H8MI02113", 
+            "H0MI02094", 
+            "H8MI02121"
+        ], 
+        "district": "MI02"
+    }, 
+    {
+        "candidates": [
+            "H6MI07223", 
+            "H8MI07112", 
+            "H4MI07103"
+        ], 
+        "district": "MI07"
+    }, 
+    {
+        "candidates": [
+            "H8MI04085", 
+            "H8MI04093", 
+            "H4MI04126"
+        ], 
+        "district": "MI04"
+    }, 
+    {
+        "candidates": [
+            "H8FL05132", 
+            "H0FL02086", 
+            "H8FL05124"
+        ], 
+        "district": "FL05"
+    }, 
+    {
+        "candidates": [
+            "H6NC13129", 
+            "H6NC02130", 
+            "H8NC13067"
+        ], 
+        "district": "NC13"
+    }, 
+    {
+        "candidates": [
+            "H8FL09118", 
+            "H6FL09195", 
+            "H6FL09179"
+        ], 
+        "district": "FL09"
+    }, 
+    {
+        "candidates": [
+            "H6NY18161", 
+            "H8NY18266", 
+            "H2NY22139"
+        ], 
+        "district": "NY18"
+    }, 
+    {
+        "candidates": [
+            "H6FL02208", 
+            "H8FL02097", 
+            "H6FL02190"
+        ], 
+        "district": "FL02"
+    }, 
+    {
+        "candidates": [
+            "H8FL03038", 
+            "H8FL03020", 
+            "H2FL06109"
+        ], 
+        "district": "FL03"
+    }, 
+    {
+        "candidates": [
+            "H0CA49055", 
+            "H8CA53068", 
+            "H6CA53062"
+        ], 
+        "district": "CA53"
+    }, 
+    {
+        "candidates": [
+            "H0IN08114", 
+            "H8IN08133", 
+            "H8IN08141"
+        ], 
+        "district": "IN08"
+    }, 
+    {
+        "candidates": [
+            "H6IN03229", 
+            "H8IN03084", 
+            "H8IN03076"
+        ], 
+        "district": "IN03"
+    }, 
+    {
+        "candidates": [
+            "H8IN07184", 
+            "H8IN07150", 
+            "H8IN07291"
+        ], 
+        "district": "IN07"
+    }, 
+    {
+        "candidates": [
+            "H6PA08277", 
+            "H8PA08158", 
+            "H8PA08141"
+        ], 
+        "district": "PA08"
+    }, 
+    {
+        "candidates": [
+            "H8PA04108", 
+            "H2PA04135", 
+            "H8PA04090"
+        ], 
+        "district": "PA04"
+    }, 
+    {
+        "candidates": [
+            "H0PA03271", 
+            "H8PA03126", 
+            "H8PA03118"
+        ], 
+        "district": "PA03"
+    }, 
+    {
+        "candidates": [
+            "H2CA28113", 
+            "H8CA29100", 
+            "H8CA29092"
+        ], 
+        "district": "CA29"
+    }, 
+    {
+        "candidates": [
+            "H0CA32101", 
+            "H8CA27104", 
+            "H8CA27112"
+        ], 
+        "district": "CA27"
+    }, 
+    {
+        "candidates": [
+            "H6CA24303", 
+            "H4CA24142", 
+            "H8CA24150"
+        ], 
+        "district": "CA24"
+    }, 
+    {
+        "candidates": [
+            "H2HI02110", 
+            "H8HI01192", 
+            "H4HI01167"
+        ], 
+        "district": "HI01"
+    }, 
+    {
+        "candidates": [
+            "H8HI02133", 
+            "H2HI02508", 
+            "H8HI02125"
+        ], 
+        "district": "HI02"
+    }, 
+    {
+        "candidates": [
+            "H0TN03254", 
+            "H8TN03208", 
+            "H8TN03190"
+        ], 
+        "district": "TN03"
+    }, 
+    {
+        "candidates": [
+            "H8TN01087", 
+            "H8TN01079", 
+            "H6TN01388"
+        ], 
+        "district": "TN01"
+    }, 
+    {
+        "candidates": [
+            "H8GA04109", 
+            "H6GA04129", 
+            "H8GA04117"
+        ], 
+        "district": "GA04"
+    }, 
+    {
+        "candidates": [
+            "H6MD07160", 
+            "H8MD07075", 
+            "H4MD07074"
+        ], 
+        "district": "MD07"
+    }, 
+    {
+        "candidates": [
+            "H6AZ05083", 
+            "H8AZ05154", 
+            "H8AZ05162"
+        ], 
+        "district": "AZ05"
+    }, 
+    {
+        "candidates": [
+            "H8CO03218", 
+            "H8CO03192", 
+            "H6CO03139"
+        ], 
+        "district": "CO03"
+    }, 
+    {
+        "candidates": [
+            "H2MA09072", 
+            "H8MA08188", 
+            "H8MA08170"
+        ], 
+        "district": "MA08"
+    }, 
+    {
+        "candidates": [
+            "H8MN05163", 
+            "H6MN05183", 
+            "H8MN05155"
+        ], 
+        "district": "MN05"
+    }, 
+    {
+        "candidates": [
+            "H0MN04049", 
+            "H8MN04083", 
+            "H6MN04236"
+        ], 
+        "district": "MN04"
+    }, 
+    {
+        "candidates": [
+            "H6MN02131", 
+            "H8MN02079", 
+            "H6MN02149"
+        ], 
+        "district": "MN02"
+    }, 
+    {
+        "candidates": [
+            "H2MN08111", 
+            "H8MN08050", 
+            "H8MN08043"
+        ], 
+        "district": "MN08"
+    }, 
+    {
+        "candidates": [
+            "H4NY09090", 
+            "H8NY09158", 
+            "H4NY11138"
+        ], 
+        "district": "NY09"
+    }, 
+    {
+        "candidates": [
+            "H8NC03076", 
+            "H2NC01081", 
+            "H8NC03068"
+        ], 
+        "district": "NC03"
+    }, 
+    {
+        "candidates": [
+            "H2IL17071", 
+            "H8IL17052", 
+            "H8IL17037"
+        ], 
+        "district": "IL17"
+    }, 
+    {
+        "candidates": [
+            "H8FL19067", 
+            "H6FL19087", 
+            "H8FL19075"
+        ], 
+        "district": "FL19"
+    }, 
+    {
+        "candidates": [
+            "H4IL03077", 
+            "H8IL03102", 
+            "H8IL03110"
+        ], 
+        "district": "IL03"
+    }, 
+    {
+        "candidates": [
+            "H8AK01015", 
+            "H8AK00132", 
+            "H6AK00045"
+        ], 
+        "district": "AK00"
+    }, 
+    {
+        "candidates": [
+            "H8OK05109", 
+            "H8OK05091", 
+            "H4OK05132"
+        ], 
+        "district": "OK05"
+    }, 
+    {
+        "candidates": [
+            "H8DC03014", 
+            "H8DC01034", 
+            "H0DC00058"
+        ], 
+        "district": "DC00"
+    }, 
+    {
+        "candidates": [
+            "H0FL19080", 
+            "H8FL22061", 
+            "H4FL22110"
+        ], 
+        "district": "FL22"
+    }, 
+    {
+        "candidates": [
+            "H2GA12121", 
+            "H8GA12052", 
+            "H8GA12060"
+        ], 
+        "district": "GA12"
+    }, 
+    {
+        "candidates": [
+            "H8VA11062", 
+            "H8VA11070", 
+            "H8VA11088"
+        ], 
+        "district": "VA11"
+    }, 
+    {
+        "candidates": [
+            "H8OH15126", 
+            "H8OH15134", 
+            "H8OH15076"
+        ], 
+        "district": "OH15"
+    }, 
+    {
+        "candidates": [
+            "H8OH11281", 
+            "H8OH11299", 
+            "H8OH11141"
+        ], 
+        "district": "OH11"
+    }, 
+    {
+        "candidates": [
+            "H8CA37301", 
+            "H8CA37293", 
+            "H0CA33117"
+        ], 
+        "district": "CA37"
+    }, 
+    {
+        "candidates": [
+            "H8CA32062", 
+            "H8CA34068", 
+            "H8CA32070"
+        ], 
+        "district": "CA32"
+    }, 
+    {
+        "candidates": [
+            "H2NV02395", 
+            "H6NV02172", 
+            "H6NV02255"
+        ], 
+        "district": "NV02"
+    }, 
+    {
+        "candidates": [
+            "H6ME01207", 
+            "H8ME01120", 
+            "H8ME01195"
+        ], 
+        "district": "ME01"
+    }, 
+    {
+        "candidates": [
+            "H2KY04121", 
+            "H8KY04136", 
+            "H8KY04128"
+        ], 
+        "district": "KY04"
+    }, 
+    {
+        "candidates": [
+            "H6KY01110", 
+            "H8KY01066", 
+            "H8KY01058"
+        ], 
+        "district": "KY01"
+    }, 
+    {
+        "candidates": [
+            "H8AR03074", 
+            "H8AR03066", 
+            "H0AR03055"
+        ], 
+        "district": "AR03"
+    }, 
+    {
+        "candidates": [
+            "H8NE03087", 
+            "H6NE03115", 
+            "H8NE03095"
+        ], 
+        "district": "NE03"
+    }, 
+    {
+        "candidates": [
+            "H4NE02054", 
+            "H6NE02125", 
+            "H8NE02220"
+        ], 
+        "district": "NE02"
+    }, 
+    {
+        "candidates": [
+            "H4NE01163", 
+            "H4NE01064", 
+            "H8NE01081"
+        ], 
+        "district": "NE01"
+    }, 
+    {
+        "candidates": [
+            "H8CA05183", 
+            "H8CA01109", 
+            "H4CA11099"
+        ], 
+        "district": "CA05"
+    }, 
+    {
+        "candidates": [
+            "H8MO05128", 
+            "H4MO05234", 
+            "H8MO05110"
+        ], 
+        "district": "MO05"
+    }, 
+    {
+        "candidates": [
+            "H6IA02146", 
+            "H6IA02161"
+        ], 
+        "district": "IA02"
+    }, 
+    {
+        "candidates": [
+            "H8SC05133", 
+            "H0SC05031"
+        ], 
+        "district": "SC05"
+    }, 
+    {
+        "candidates": [
+            "H8OR05198", 
+            "H8OR05107"
+        ], 
+        "district": "OR05"
+    }, 
+    {
+        "candidates": [
+            "H6OR04047", 
+            "H6OR04203"
+        ], 
+        "district": "OR04"
+    }, 
+    {
+        "candidates": [
+            "H8IL14067", 
+            "H6IL11133"
+        ], 
+        "district": "IL11"
+    }, 
+    {
+        "candidates": [
+            "H8TX33013", 
+            "H2TX33073"
+        ], 
+        "district": "TX33"
+    }, 
+    {
+        "candidates": [
+            "H6WA09025", 
+            "H8WA09054"
+        ], 
+        "district": "WA09"
+    }, 
+    {
+        "candidates": [
+            "H6OH08315", 
+            "H8OH08071"
+        ], 
+        "district": "OH08"
+    }, 
+    {
+        "candidates": [
+            "H0VA09055", 
+            "H8VA09058"
+        ], 
+        "district": "VA09"
+    }, 
+    {
+        "candidates": [
+            "H8TX15051", 
+            "H6TX15162"
+        ], 
+        "district": "TX15"
+    }, 
+    {
+        "candidates": [
+            "H6OH04082", 
+            "H8OH04062"
+        ], 
+        "district": "OH04"
+    }, 
+    {
+        "candidates": [
+            "H0OH18077", 
+            "H8OH07123"
+        ], 
+        "district": "OH07"
+    }, 
+    {
+        "candidates": [
+            "H6CA44103", 
+            "H2CA35100"
+        ], 
+        "district": "CA44"
+    }, 
+    {
+        "candidates": [
+            "H8CA15109", 
+            "H2CA15094"
+        ], 
+        "district": "CA15"
+    }, 
+    {
+        "candidates": [
+            "H0CA10073", 
+            "H8CA11090"
+        ], 
+        "district": "CA11"
+    }, 
+    {
+        "candidates": [
+            "H6WI08155", 
+            "H8WI08045"
+        ], 
+        "district": "WI08"
+    }, 
+    {
+        "candidates": [
+            "H0ND01026", 
+            "H8ND01029"
+        ], 
+        "district": "ND00"
+    }, 
+    {
+        "candidates": [
+            "H8VT01040", 
+            "H6VT00160"
+        ], 
+        "district": "VT00"
+    }, 
+    {
+        "candidates": [
+            "H8NY26129", 
+            "H4NY27076"
+        ], 
+        "district": "NY26"
+    }, 
+    {
+        "candidates": [
+            "H6DE00206", 
+            "H8DE01036"
+        ], 
+        "district": "DE00"
+    }, 
+    {
+        "candidates": [
+            "H8NY10081", 
+            "H2NY17071"
+        ], 
+        "district": "NY10"
+    }, 
+    {
+        "candidates": [
+            "H4NC12100", 
+            "H8NC12101"
+        ], 
+        "district": "NC12"
+    }, 
+    {
+        "candidates": [
+            "H6FL09187", 
+            "H8FL15107"
+        ], 
+        "district": "FL08"
+    }, 
+    {
+        "candidates": [
+            "H8NY16088", 
+            "H8NY19058"
+        ], 
+        "district": "NY16"
+    }, 
+    {
+        "candidates": [
+            "H2NY14037", 
+            "H8NY12129"
+        ], 
+        "district": "NY12"
+    }, 
+    {
+        "candidates": [
+            "H2NY13096", 
+            "H8NY13143"
+        ], 
+        "district": "NY13"
+    }, 
+    {
+        "candidates": [
+            "H6CA51082", 
+            "H2CA50026"
+        ], 
+        "district": "CA51"
+    }, 
+    {
+        "candidates": [
+            "H8ID02064", 
+            "H8ID02130"
+        ], 
+        "district": "ID02"
+    }, 
+    {
+        "candidates": [
+            "H8CT03067", 
+            "H0CT03072"
+        ], 
+        "district": "CT03"
+    }, 
+    {
+        "candidates": [
+            "H2CT02112", 
+            "H8CT02093"
+        ], 
+        "district": "CT02"
+    }, 
+    {
+        "candidates": [
+            "H8CT05179", 
+            "H2CT05131"
+        ], 
+        "district": "CT05"
+    }, 
+    {
+        "candidates": [
+            "H6NJ08118", 
+            "H4NJ09095"
+        ], 
+        "district": "NJ09"
+    }, 
+    {
+        "candidates": [
+            "H2PA09100", 
+            "H2PA09035"
+        ], 
+        "district": "PA09"
+    }, 
+    {
+        "candidates": [
+            "H8PA05204", 
+            "H8PA05071"
+        ], 
+        "district": "PA05"
+    }, 
+    {
+        "candidates": [
+            "H0PA06076", 
+            "H8PA06087"
+        ], 
+        "district": "PA06"
+    }, 
+    {
+        "candidates": [
+            "H8PA01237", 
+            "H8PA01153"
+        ], 
+        "district": "PA01"
+    }, 
+    {
+        "candidates": [
+            "H6MI01028", 
+            "H8MI13227"
+        ], 
+        "district": "MI13"
+    }, 
+    {
+        "candidates": [
+            "H4MI12079", 
+            "H8MI12112"
+        ], 
+        "district": "MI12"
+    }, 
+    {
+        "candidates": [
+            "H8CA20083", 
+            "H6CA20152"
+        ], 
+        "district": "CA20"
+    }, 
+    {
+        "candidates": [
+            "H6CA21218", 
+            "H2CA20094"
+        ], 
+        "district": "CA21"
+    }, 
+    {
+        "candidates": [
+            "H8TN08108", 
+            "H2TN07103"
+        ], 
+        "district": "TN08"
+    }, 
+    {
+        "candidates": [
+            "H6TN09068", 
+            "H6TN09431"
+        ], 
+        "district": "TN09"
+    }, 
+    {
+        "candidates": [
+            "H2GA02031", 
+            "H8GA02061"
+        ], 
+        "district": "GA02"
+    }, 
+    {
+        "candidates": [
+            "H2GA09150", 
+            "H8GA09058"
+        ], 
+        "district": "GA09"
+    }, 
+    {
+        "candidates": [
+            "H2MD05155", 
+            "H8MD05129"
+        ], 
+        "district": "MD05"
+    }, 
+    {
+        "candidates": [
+            "H8MD02100", 
+            "H2MD02160"
+        ], 
+        "district": "MD02"
+    }, 
+    {
+        "candidates": [
+            "H0AZ01259", 
+            "H8AZ04132"
+        ], 
+        "district": "AZ04"
+    }, 
+    {
+        "candidates": [
+            "H2AL03032", 
+            "H4AL03061"
+        ], 
+        "district": "AL03"
+    }, 
+    {
+        "candidates": [
+            "H8AL07089", 
+            "H0AL07086"
+        ], 
+        "district": "AL07"
+    }, 
+    {
+        "candidates": [
+            "H8AL06099", 
+            "H4AL06098"
+        ], 
+        "district": "AL06"
+    }, 
+    {
+        "candidates": [
+            "H8MA08071", 
+            "H8MA07024"
+        ], 
+        "district": "MA07"
+    }, 
+    {
+        "candidates": [
+            "H0MA10082", 
+            "H8MA09046"
+        ], 
+        "district": "MA09"
+    }, 
+    {
+        "candidates": [
+            "H4MN06087", 
+            "H8MN06096"
+        ], 
+        "district": "MN06"
+    }, 
+    {
+        "candidates": [
+            "H8TX13163", 
+            "H4TX13014"
+        ], 
+        "district": "TX13"
+    }, 
+    {
+        "candidates": [
+            "H8NY02070", 
+            "H2NY03089"
+        ], 
+        "district": "NY02"
+    }, 
+    {
+        "candidates": [
+            "H8NY07046", 
+            "H8NY15148"
+        ], 
+        "district": "NY14"
+    }, 
+    {
+        "candidates": [
+            "H8IL18092", 
+            "H6IL18088"
+        ], 
+        "district": "IL18"
+    }, 
+    {
+        "candidates": [
+            "H6TX34031", 
+            "H2TX27190"
+        ], 
+        "district": "TX34"
+    }, 
+    {
+        "candidates": [
+            "H2FL08063", 
+            "H8FL10058"
+        ], 
+        "district": "FL10"
+    }, 
+    {
+        "candidates": [
+            "H0MO06073", 
+            "H8MO06092"
+        ], 
+        "district": "MO06"
+    }, 
+    {
+        "candidates": [
+            "H6KS01146", 
+            "H6KS01179"
+        ], 
+        "district": "KS01"
+    }, 
+    {
+        "candidates": [
+            "H2OK04055", 
+            "H8OK04060"
+        ], 
+        "district": "OK04"
+    }, 
+    {
+        "candidates": [
+            "H8WA04089", 
+            "H4WA04104"
+        ], 
+        "district": "WA04"
+    }, 
+    {
+        "candidates": [
+            "H2FL25018", 
+            "H6FL25027"
+        ], 
+        "district": "FL25"
+    }, 
+    {
+        "candidates": [
+            "H4FL20064", 
+            "H2FL23021"
+        ], 
+        "district": "FL20"
+    }, 
+    {
+        "candidates": [
+            "H2FL14053", 
+            "H8FL21055"
+        ], 
+        "district": "FL21"
+    }, 
+    {
+        "candidates": [
+            "H4TX09095", 
+            "H8TX09120"
+        ], 
+        "district": "TX09"
+    }, 
+    {
+        "candidates": [
+            "H8OH13147", 
+            "H2OH17109"
+        ], 
+        "district": "OH13"
+    }, 
+    {
+        "candidates": [
+            "H8OH10101", 
+            "H2OH03067"
+        ], 
+        "district": "OH10"
+    }, 
+    {
+        "candidates": [
+            "H4CA35031", 
+            "H8CA35115"
+        ], 
+        "district": "CA35"
+    }, 
+    {
+        "candidates": [
+            "H2CA31125", 
+            "H6CA31134"
+        ], 
+        "district": "CA31"
+    }, 
+    {
+        "candidates": [
+            "H4CA33119", 
+            "H6CA33106"
+        ], 
+        "district": "CA33"
+    }, 
+    {
+        "candidates": [
+            "H8FL24059", 
+            "H0FL17068"
+        ], 
+        "district": "FL24"
+    }, 
+    {
+        "candidates": [
+            "H8KY02031", 
+            "H8KY02072"
+        ], 
+        "district": "KY02"
+    }, 
+    {
+        "candidates": [
+            "H0AR01083", 
+            "H8AR01029"
+        ], 
+        "district": "AR01"
+    }, 
+    {
+        "candidates": [
+            "H8CA09144", 
+            "H4CA11081"
+        ], 
+        "district": "CA09"
+    }, 
+    {
+        "candidates": [
+            "H8MO08098", 
+            "H4MO08162"
+        ], 
+        "district": "MO08"
+    }, 
+    {
+        "candidates": [
+            "H8IL01106", 
+            "H2IL01042"
+        ], 
+        "district": "IL01"
+    }, 
+    {
+        "candidates": [
+            "H2SC02042"
+        ], 
+        "district": "SC06"
+    }, 
+    {
+        "candidates": [
+            "H0SC04257"
+        ], 
+        "district": "SC04"
+    }, 
+    {
+        "candidates": [
+            "H2SC02059"
+        ], 
+        "district": "SC02"
+    }, 
+    {
+        "candidates": [
+            "H6OR03064"
+        ], 
+        "district": "OR03"
+    }, 
+    {
+        "candidates": [
+            "H2OR01133"
+        ], 
+        "district": "OR01"
+    }, 
+    {
+        "candidates": [
+            "H0NY18065"
+        ], 
+        "district": "NY15"
+    }, 
+    {
+        "candidates": [
+            "H4VA08224"
+        ], 
+        "district": "VA08"
+    }, 
+    {
+        "candidates": [
+            "H6VA04061"
+        ], 
+        "district": "VA04"
+    }, 
+    {
+        "candidates": [
+            "H6VA01117"
+        ], 
+        "district": "VA03"
+    }, 
+    {
+        "candidates": [
+            "H2OH09031"
+        ], 
+        "district": "OH09"
+    }, 
+    {
+        "candidates": [
+            "H0OH06189"
+        ], 
+        "district": "OH06"
+    }, 
+    {
+        "candidates": [
+            "H2CA33048"
+        ], 
+        "district": "CA40"
+    }, 
+    {
+        "candidates": [
+            "H6CA46116"
+        ], 
+        "district": "CA46"
+    }, 
+    {
+        "candidates": [
+            "H2CA00104"
+        ], 
+        "district": "CA47"
+    }, 
+    {
+        "candidates": [
+            "H8CT01046"
+        ], 
+        "district": "CT01"
+    }, 
+    {
+        "candidates": [
+            "H4PA18131"
+        ], 
+        "district": "PA14"
+    }, 
+    {
+        "candidates": [
+            "H2VI00082"
+        ], 
+        "district": "VI00"
+    }, 
+    {
+        "candidates": [
+            "H4CA16049"
+        ], 
+        "district": "CA19"
+    }, 
+    {
+        "candidates": [
+            "H8CA12098"
+        ], 
+        "district": "CA18"
+    }, 
+    {
+        "candidates": [
+            "H4CA20082"
+        ], 
+        "district": "CA16"
+    }, 
+    {
+        "candidates": [
+            "H8CA12171"
+        ], 
+        "district": "CA14"
+    }, 
+    {
+        "candidates": [
+            "H8CA09060"
+        ], 
+        "district": "CA13"
+    }, 
+    {
+        "candidates": [
+            "H2MI05119"
+        ], 
+        "district": "MI05"
+    }, 
+    {
+        "candidates": [
+            "H4AS00036"
+        ], 
+        "district": "AS00"
+    }, 
+    {
+        "candidates": [
+            "H2WI02124"
+        ], 
+        "district": "WI02"
+    }, 
+    {
+        "candidates": [
+            "H4WI04183"
+        ], 
+        "district": "WI04"
+    }, 
+    {
+        "candidates": [
+            "H0WI07051"
+        ], 
+        "district": "WI07"
+    }, 
+    {
+        "candidates": [
+            "H0RI02139"
+        ], 
+        "district": "RI02"
+    }, 
+    {
+        "candidates": [
+            "H0RI01073"
+        ], 
+        "district": "RI01"
+    }, 
+    {
+        "candidates": [
+            "H6NY03031"
+        ], 
+        "district": "NY25"
+    }, 
+    {
+        "candidates": [
+            "H8NY21203"
+        ], 
+        "district": "NY20"
+    }, 
+    {
+        "candidates": [
+            "H8NY20056"
+        ], 
+        "district": "NY17"
+    }, 
+    {
+        "candidates": [
+            "H6FL04105"
+        ], 
+        "district": "FL04"
+    }, 
+    {
+        "candidates": [
+            "H8NM03196"
+        ], 
+        "district": "NM03"
+    }, 
+    {
+        "candidates": [
+            "H8MP01015"
+        ], 
+        "district": "MP01"
+    }, 
+    {
+        "candidates": [
+            "H8MP00041"
+        ], 
+        "district": "MP00"
+    }, 
+    {
+        "candidates": [
+            "H4MS02068"
+        ], 
+        "district": "MS02"
+    }, 
+    {
+        "candidates": [
+            "H8MS03067"
+        ], 
+        "district": "MS03"
+    }, 
+    {
+        "candidates": [
+            "H6WY00159"
+        ], 
+        "district": "WY00"
+    }, 
+    {
+        "candidates": [
+            "H2TX23082"
+        ], 
+        "district": "TX28"
+    }, 
+    {
+        "candidates": [
+            "H2TX35011"
+        ], 
+        "district": "TX20"
+    }, 
+    {
+        "candidates": [
+            "H4IN01012"
+        ], 
+        "district": "IN01"
+    }, 
+    {
+        "candidates": [
+            "H8CT04172"
+        ], 
+        "district": "CT04"
+    }, 
+    {
+        "candidates": [
+            "H6NJ13191"
+        ], 
+        "district": "NJ08"
+    }, 
+    {
+        "candidates": [
+            "H8PA00023"
+        ], 
+        "district": "PA00"
+    }, 
+    {
+        "candidates": [
+            "H6PA02171"
+        ], 
+        "district": "PA02"
+    }, 
+    {
+        "candidates": [
+            "H2MI14111"
+        ], 
+        "district": "MI14"
+    }, 
+    {
+        "candidates": [
+            "H4MI04118"
+        ], 
+        "district": "MI10"
+    }, 
+    {
+        "candidates": [
+            "H2NJ10154"
+        ], 
+        "district": "NJ10"
+    }, 
+    {
+        "candidates": [
+            "H2TN05131"
+        ], 
+        "district": "TN05"
+    }, 
+    {
+        "candidates": [
+            "H6GA05217"
+        ], 
+        "district": "GA05"
+    }, 
+    {
+        "candidates": [
+            "H6MD08457"
+        ], 
+        "district": "MD08"
+    }, 
+    {
+        "candidates": [
+            "H6MD03292"
+        ], 
+        "district": "MD03"
+    }, 
+    {
+        "candidates": [
+            "H8MD00039"
+        ], 
+        "district": "MD00"
+    }, 
+    {
+        "candidates": [
+            "H4AZ07043"
+        ], 
+        "district": "AZ07"
+    }, 
+    {
+        "candidates": [
+            "H4AL01123"
+        ], 
+        "district": "AL01"
+    }, 
+    {
+        "candidates": [
+            "H8MA02041"
+        ], 
+        "district": "MA01"
+    }, 
+    {
+        "candidates": [
+            "H2MA04073"
+        ], 
+        "district": "MA04"
+    }, 
+    {
+        "candidates": [
+            "H4MA05084"
+        ], 
+        "district": "MA05"
+    }, 
+    {
+        "candidates": [
+            "H2NY10092"
+        ], 
+        "district": "NY08"
+    }, 
+    {
+        "candidates": [
+            "H2NY00010"
+        ], 
+        "district": "NY07"
+    }, 
+    {
+        "candidates": [
+            "H2NY06116"
+        ], 
+        "district": "NY06"
+    }, 
+    {
+        "candidates": [
+            "H8NY06048"
+        ], 
+        "district": "NY05"
+    }, 
+    {
+        "candidates": [
+            "H4NY04075"
+        ], 
+        "district": "NY04"
+    }, 
+    {
+        "candidates": [
+            "H4NC01046"
+        ], 
+        "district": "NC01"
+    }, 
+    {
+        "candidates": [
+            "H8NC00023"
+        ], 
+        "district": "NC00"
+    }, 
+    {
+        "candidates": [
+            "H2NC08185"
+        ], 
+        "district": "NC08"
+    }, 
+    {
+        "candidates": [
+            "H2TX00015"
+        ], 
+        "district": "TX30"
+    }, 
+    {
+        "candidates": [
+            "H2OH03125"
+        ], 
+        "district": "OH03"
+    }, 
+    {
+        "candidates": [
+            "H6FL13205"
+        ], 
+        "district": "FL13"
+    }, 
+    {
+        "candidates": [
+            "H2IL02172"
+        ], 
+        "district": "IL02"
+    }, 
+    {
+        "candidates": [
+            "H0KS04051"
+        ], 
+        "district": "KS04"
+    }, 
+    {
+        "candidates": [
+            "H4NJ12149"
+        ], 
+        "district": "NJ12"
+    }, 
+    {
+        "candidates": [
+            "H8MO09153"
+        ], 
+        "district": "MO03"
+    }, 
+    {
+        "candidates": [
+            "H0LA01087"
+        ], 
+        "district": "LA01"
+    }, 
+    {
+        "candidates": [
+            "H8LA02054"
+        ], 
+        "district": "LA02"
+    }, 
+    {
+        "candidates": [
+            "H4LA05221"
+        ], 
+        "district": "LA05"
+    }, 
+    {
+        "candidates": [
+            "H6LA04138"
+        ], 
+        "district": "LA04"
+    }, 
+    {
+        "candidates": [
+            "H4LA06153"
+        ], 
+        "district": "LA06"
+    }, 
+    {
+        "candidates": [
+            "H4OK06056"
+        ], 
+        "district": "OK03"
+    }, 
+    {
+        "candidates": [
+            "H0WA08046"
+        ], 
+        "district": "WA01"
+    }, 
+    {
+        "candidates": [
+            "H0WA02080"
+        ], 
+        "district": "WA02"
+    }, 
+    {
+        "candidates": [
+            "H2WA06129"
+        ], 
+        "district": "WA06"
+    }, 
+    {
+        "candidates": [
+            "H6WA07458"
+        ], 
+        "district": "WA07"
+    }, 
+    {
+        "candidates": [
+            "H2GA13012"
+        ], 
+        "district": "GA13"
+    }, 
+    {
+        "candidates": [
+            "H0GA09030"
+        ], 
+        "district": "GA14"
+    }, 
+    {
+        "candidates": [
+            "H4NJ01084"
+        ], 
+        "district": "NJ01"
+    }, 
+    {
+        "candidates": [
+            "H8NV03036"
+        ], 
+        "district": "NV01"
+    }, 
+    {
+        "candidates": [
+            "H2CA39078"
+        ], 
+        "district": "CA38"
+    }, 
+    {
+        "candidates": [
+            "H8CO15014"
+        ], 
+        "district": "CO15"
+    }, 
+    {
+        "candidates": [
+            "H2GU00033"
+        ], 
+        "district": "GU00"
+    }, 
+    {
+        "candidates": [
+            "H8MA15019"
+        ], 
+        "district": "MA15"
+    }, 
+    {
+        "candidates": [
+            "H8NJ03073"
+        ], 
+        "district": "NJ06"
+    }, 
+    {
+        "candidates": [
+            "H0KY05015"
+        ], 
+        "district": "KY05"
+    }, 
+    {
+        "candidates": [
+            "H6KY03124"
+        ], 
+        "district": "KY03"
+    }, 
+    {
+        "candidates": [
+            "H8UT03089"
+        ], 
+        "district": "UT03"
+    }, 
+    {
+        "candidates": [
+            "H2UT01094"
+        ], 
+        "district": "UT01"
+    }, 
+    {
+        "candidates": [
+            "H6CA05195"
+        ], 
+        "district": "CA06"
+    }, 
+    {
+        "candidates": [
+            "H2CA06259"
+        ], 
+        "district": "CA02"
+    }, 
+    {
+        "candidates": [
+            "H0CA10149"
+        ], 
+        "district": "CA03"
+    }, 
+    {
+        "candidates": [
+            "H6IL08147"
+        ], 
+        "district": "IL08"
+    }
+]
