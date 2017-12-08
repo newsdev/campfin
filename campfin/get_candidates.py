@@ -9,12 +9,13 @@ from utils import request_until_succeed, unicode_decode
 
 base = "https://api.open.fec.gov/v1/"
 house = "H"
-api_key = os.environ.get('FEC_KEY', None)
+api_key = os.environ.get('FEC_KEY_0', None)
 
 """Returns list of candidates in given year"""
 def get_candidates(year):
     election_request = "election_year=" + year
     api_request = "api_key=" + api_key
+    print(api_request)
     page = 1
     has_next_page = True
     payload = []
@@ -81,10 +82,17 @@ def get_self_funds(candidates):
     return self_fund_dict
 
 if __name__ == '__main__':
-    candidates = get_candidates("2018")
-    write_district_dict("2018", candidates)
+    year = str(2018)
+    #Retrieve all House candidates
+    candidates = get_candidates(year)
+
+    #Write to file state_district:candidates
+    #write_district_dict(year, candidates)
+
+    #Get self funds of candidates
     self_funds = get_self_funds(candidates)
-    with open(year+"_self_fund.json", "w") as writefile:
+
+    with open("data/%s_self_fund.json" %year, "w") as writefile:
         writefile.write(json.dumps(self_funds, indent=4))
 
         

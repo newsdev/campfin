@@ -1,0 +1,301 @@
+[<div class="ratings-detail-page-table-7-column-main">
+<div class="ratings-detail-page-table-7-column">
+<div class="ratings-detail-page-table-7-column-body">
+<div class="ratings-detail-page-table-7-column-row v">
+<div class="ratings-detail-page-table-7-column-cell column-column-1">
+<p class="ratings-detail-page-table-7-column-cell-title">SOLID D</p>
+</div>
+<div class="ratings-detail-page-table-7-column-cell column-column-2">
+<p class="ratings-detail-page-table-7-column-cell-title">LIKELY D</p>
+</div>
+</div>
+<div class="ratings-detail-page-table-7-column-row clearfix">
+<div class="ratings-detail-page-table-7-column-cell">
+<ul class="ratings-detail-page-table-7-column-ul">
+<li class="dem-li-color">
+<a href="/senate/race/6342">CA
+                                                - Feinstein</a>
+</li>
+<li class="dem-li-color">
+<a href="/senate/race/6343">CT
+                                                - Murphy</a>
+</li>
+<li class="dem-li-color">
+<a href="/senate/race/6344">DE
+                                                - Carper</a>
+</li>
+<li class="dem-li-color">
+<a href="/senate/race/6346">HI
+                                                - Hirono</a>
+</li>
+<li class="dem-li-color">
+<a href="/senate/race/6350">MD
+                                                - Cardin</a>
+</li>
+<li class="dem-li-color">
+<a href="/senate/race/6351">MA
+                                                - Warren</a>
+</li>
+<li class="dem-li-color">
+<a href="/senate/race/6358">NM
+                                                - Heinrich</a>
+</li>
+<li class="dem-li-color">
+<a href="/senate/race/6359">NY
+                                                - Gillibrand</a>
+</li>
+<li class="dem-li-color">
+<a href="/senate/race/6365">RI
+                                                - Whitehouse</a>
+</li>
+<li class="dem-li-color">
+<a href="/senate/race/6368">VT
+                                                - Sanders(I)</a>
+</li>
+<li class="dem-li-color">
+<a href="/senate/race/6370">WA
+                                                - Cantwell</a>
+</li>
+<li class="dem-li-color">
+<a href="/senate/race/6375">MN
+                                                - Klobuchar</a>
+</li>
+</ul>
+</div>
+<div class="ratings-detail-page-table-7-column-cell">
+<ul class="ratings-detail-page-table-7-column-ul">
+<li class="dem-li-color">
+<a href="/senate/race/6354">MT
+                                                - Tester</a>
+</li>
+<li class="dem-li-color">
+<a href="/senate/race/6357">NJ
+                                                - Menéndez</a>
+</li>
+<li class="dem-li-color">
+<a href="/senate/race/6364">PA
+                                                - Casey</a>
+</li>
+<li class="dem-li-color">
+<a href="/senate/race/6369">VA
+                                                - Kaine</a>
+</li>
+<li class="dem-li-color">
+<a href="/senate/race/6372">WI
+                                                - Baldwin</a>
+</li>
+<li class="dem-li-color">
+<a href="/senate/race/6374">MI
+                                                - Stabenow</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="ratings-detail-page-table-7-column">
+<div class="ratings-detail-page-table-7-column-body">
+<div class="ratings-detail-page-table-7-column-row clearfix">
+<div class="ratings-detail-page-table-7-column-cell column-column-3">
+<p class="ratings-detail-page-table-7-column-cell-title">LEAN D</p>
+</div>
+<div class="ratings-detail-page-table-7-column-cell column-column-4">
+<p class="ratings-detail-page-table-7-column-cell-title">TOSS UP</p>
+</div>
+</div>
+<div class="ratings-detail-page-table-7-column-row clearfix">
+<div class="ratings-detail-page-table-7-column-cell">
+<ul class="ratings-detail-page-table-7-column-ul">
+<li class="dem-li-color">
+<a href="/senate/race/6345">FL
+                                                - Nelson</a>
+</li>
+<li class="dem-li-color">
+<a href="/senate/race/6349">ME
+                                                - King(I)</a>
+</li>
+<li class="dem-li-color">
+<a href="/senate/race/6360">ND
+                                                - Heitkamp</a>
+</li>
+<li class="dem-li-color">
+<a href="/senate/race/6361">OH
+                                                - Brown</a>
+</li>
+</ul>
+</div>
+<div class="ratings-detail-page-table-7-column-cell">
+<ul class="ratings-detail-page-table-7-column-ul">
+<li class="dem-li-color">
+<a href="/senate/race/6348">IN
+                                                - Donnelly</a>
+</li>
+<li class="dem-li-color">
+<a href="/senate/race/6353">MO
+                                                - McCaskill</a>
+</li>
+<li class="dem-li-color">
+<a href="/senate/race/6371">WV
+                                                - Manchin</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="ratings-detail-page-table-7-column">
+<div class="ratings-detail-page-table-7-column-body">
+<div class="ratings-detail-page-table-7-column-row clearfix">
+<div class="ratings-detail-page-table-7-column-cell column-column-5">
+<p class="ratings-detail-page-table-7-column-cell-title">LEAN R</p>
+</div>
+<div class="ratings-detail-page-table-7-column-cell column-column-6">
+<p class="ratings-detail-page-table-7-column-cell-title">LIKELY R</p>
+</div>
+</div>
+<div class="ratings-detail-page-table-7-column-row clearfix">
+<div class="ratings-detail-page-table-7-column-cell">
+<ul class="ratings-detail-page-table-7-column-ul">
+</ul>
+</div>
+<div class="ratings-detail-page-table-7-column-cell">
+<ul class="ratings-detail-page-table-7-column-ul">
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="ratings-detail-page-table-7-column ratings-detail-page-table-7-column-last-child">
+<div class="ratings-detail-page-table-7-column-body">
+<div class="ratings-detail-page-table-7-column-row clearfix">
+<div class="ratings-detail-page-table-7-column-cell column-column-7">
+<p class="ratings-detail-page-table-7-column-cell-title">SOLID R</p>
+</div>
+</div>
+<div class="ratings-detail-page-table-7-column-row clearfix">
+<div class="ratings-detail-page-table-7-column-cell">
+<ul class="ratings-detail-page-table-7-column-ul">
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>, <div class="ratings-detail-page-table-7-column-main">
+<div class="ratings-detail-page-table-7-column">
+<div class="ratings-detail-page-table-7-column-body">
+<div class="ratings-detail-page-table-7-column-row clearfix">
+<div class="ratings-detail-page-table-7-column-cell column-column-1">
+<p class="ratings-detail-page-table-7-column-cell-title">SOLID D</p>
+</div>
+<div class="ratings-detail-page-table-7-column-cell column-column-2">
+<p class="ratings-detail-page-table-7-column-cell-title">LIKELY D</p>
+</div>
+</div>
+<div class="ratings-detail-page-table-7-column-row clearfix">
+<div class="ratings-detail-page-table-7-column-cell">
+<ul class="ratings-detail-page-table-7-column-ul">
+</ul>
+</div>
+<div class="ratings-detail-page-table-7-column-cell">
+<ul class="ratings-detail-page-table-7-column-ul">
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="ratings-detail-page-table-7-column">
+<div class="ratings-detail-page-table-7-column-body">
+<div class="ratings-detail-page-table-7-column-row clearfix">
+<div class="ratings-detail-page-table-7-column-cell column-column-3">
+<p class="ratings-detail-page-table-7-column-cell-title">LEAN D</p>
+</div>
+<div class="ratings-detail-page-table-7-column-cell column-column-4">
+<p class="ratings-detail-page-table-7-column-cell-title">TOSS UP</p>
+</div>
+</div>
+<div class="ratings-detail-page-table-7-column-row clearfix">
+<div class="ratings-detail-page-table-7-column-cell">
+<ul class="ratings-detail-page-table-7-column-ul">
+</ul>
+</div>
+<div class="ratings-detail-page-table-7-column-cell">
+<ul class="ratings-detail-page-table-7-column-ul">
+<li class="rep-li-color">
+<a href="/senate/race/6341">AZ
+                                                - Flake</a>
+</li>
+<li class="rep-li-color">
+<a href="/senate/race/6356">NV
+                                                - Heller</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="ratings-detail-page-table-7-column">
+<div class="ratings-detail-page-table-7-column-body">
+<div class="ratings-detail-page-table-7-column-row clearfix">
+<div class="ratings-detail-page-table-7-column-cell column-column-5">
+<p class="ratings-detail-page-table-7-column-cell-title">LEAN R</p>
+</div>
+<div class="ratings-detail-page-table-7-column-cell column-column-6">
+<p class="ratings-detail-page-table-7-column-cell-title">LIKELY R</p>
+</div>
+</div>
+<div class="ratings-detail-page-table-7-column-row clearfix">
+<div class="ratings-detail-page-table-7-column-cell">
+<ul class="ratings-detail-page-table-7-column-ul">
+<li class="rep-li-color">
+<a href="/senate/race/174149">AL
+                                                - Strange</a>
+</li>
+</ul>
+</div>
+<div class="ratings-detail-page-table-7-column-cell">
+<ul class="ratings-detail-page-table-7-column-ul">
+<li class="rep-li-color">
+<a href="/senate/race/6366">TN
+                                                - Corker</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="ratings-detail-page-table-7-column ratings-detail-page-table-7-column-last-child">
+<div class="ratings-detail-page-table-7-column-body">
+<div class="ratings-detail-page-table-7-column-row clearfix">
+<div class="ratings-detail-page-table-7-column-cell column-column-7">
+<p class="ratings-detail-page-table-7-column-cell-title">SOLID R</p>
+</div>
+</div>
+<div class="ratings-detail-page-table-7-column-row clearfix">
+<div class="ratings-detail-page-table-7-column-cell">
+<ul class="ratings-detail-page-table-7-column-ul">
+<li class="rep-li-color">
+<a href="/senate/race/6347">TX
+                                                - Cruz</a>
+</li>
+<li class="rep-li-color">
+<a href="/senate/race/6352">MS
+                                                - Wicker</a>
+</li>
+<li class="rep-li-color">
+<a href="/senate/race/6355">NE
+                                                - Fischer</a>
+</li>
+<li class="rep-li-color">
+<a href="/senate/race/6367">UT
+                                                - Hatch</a>
+</li>
+<li class="rep-li-color">
+<a href="/senate/race/6373">WY
+                                                - Barrasso</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>]
