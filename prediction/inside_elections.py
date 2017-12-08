@@ -44,7 +44,7 @@ def scrape_senate():
 
 def csv_to_dict():
     items=[] 
-    with open('reelection.csv', 'r') as csvfile:
+    with open('data/reelection.csv', 'r') as csvfile:
         items = list(csv.DictReader(csvfile))    
     return items
 
@@ -60,7 +60,7 @@ def write_to_csv(list):
                 csv_incumbent['inside_elections_vulnerability'] = \
                 inside_incumbent['inside_elections_vulnerability']
 
-    with open('reelection_inside.csv', 'w') as csvfile:
+    with open('data/reelection_inside.csv', 'w') as csvfile:
         keys = csv_data[0].keys()
         writer = csv.DictWriter(csvfile, keys)
         writer.writeheader()

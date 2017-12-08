@@ -23,9 +23,9 @@ def read_tables(side, rows, rate_index):
         cells = row.findAll('td')
         row_dict = {HEADERS[i]:cells[i].string for i in range(len(HEADERS))}
         if side == 'HOUSE':
-            row_dict['inside_elections_vulnerability'] = HOUSE_RATINGS[rate_index]
+            row_dict['cook_political_vulnerability'] = HOUSE_RATINGS[rate_index]
         else:
-            row_dict['inside_elections_vulnerability'] = SENATE_RATINGS[rate_index]
+            row_dict['cook_political_vulnerability'] = SENATE_RATINGS[rate_index]
         DATA.append(row_dict)
 
 def scrape_house():
@@ -36,20 +36,20 @@ def scrape_house():
 
 def parse_senate(table):
     cols = table.select("ul.ratings-detail-page-table-7-column-ul")
-    for i in range((len(cols)):
+    for i in range(len(cols)):
         incumbs = cols[i].findAll("li")
 
 def scrape_senate():
     soup = get_html(SENATE_URL)
     dem_rows = soup.select("div.ratings-detail-page-table-7-column-main")[0]
-    parse_table(dem_rows)
+    parse_senate(dem_rows)
     
     repub_rows = soup.select("div.ratings-detail-page-table-7-column-main")[1]
-    parse_table(repub_rows)
+    parse_senate(repub_rows)
 
 def csv_to_dict():
     items=[] 
-    with open('reelection.csv', 'r') as csvfile:
+    with open('data/reelection.csv', 'r') as csvfile:
         items = list(csv.DictReader(csvfile))    
     return items
 
@@ -58,21 +58,21 @@ def write_to_csv(list):
     for csv_incumbent in csv_data: 
         for inside_incumbent in list: 
             if csv_incumbent['str_nyt_lastname'] == inside_incumbent['incumbent']:
-                csv_incumbent['inside_elections_vulnerability'] = \
-                inside_incumbent['inside_elections_vulnerability']
+                csv_incumbent['cook_political_vulnerability'] = \
+                inside_incumbent['cook_political_vulnerability']
             elif csv_incumbent['str_state'] == inside_incumbent['state'] and \
                 csv_incumbent['str_district'] == inside_incumbent['district']:
-                csv_incumbent['inside_elections_vulnerability'] = \
-                inside_incumbent['inside_elections_vulnerability']
+                csv_incumbent['cook_political_vulnerability'] = \
+                inside_incumbent['cook_political_vulnerability']
 
-    with open('reelection_inside.csv', 'w') as csvfile:
+    with open('data/reelection_cook.csv', 'w') as csvfile:
         keys = csv_data[0].keys()
         writer = csv.DictWriter(csvfile, keys)
         writer.writeheader()
         writer.writerows(csv_data) 
-        print("Success! Wrote vulnerability rates according to https://www.insideelections.com to reelection_inside.csv")
+        print("Success! Wrote vulnerability rates according to https://www.cookpolitical.com/ to data/reelection_inside.csv")
 
 if __name__ == '__main__':
     #scrape_house()
     scrape_senate()
-    #write_to_csv(sorted(DATA, key=lambda k: k['incumbent']))
+    write_to_csv(sorted(DATA, key=lambda k: k['incumbent']))

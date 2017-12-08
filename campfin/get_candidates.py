@@ -1,5 +1,6 @@
 import json
 import os
+import time
 
 try:
     from urllib.request import urlopen, Request
@@ -9,7 +10,7 @@ from utils import request_until_succeed, unicode_decode
 
 base = "https://api.open.fec.gov/v1/"
 house = "H"
-api_key = os.environ.get('FEC_KEY_0', None)
+api_key = os.environ.get('FEC_KEY_2', None)
 
 """Returns list of candidates in given year"""
 def get_candidates(year):
@@ -23,7 +24,7 @@ def get_candidates(year):
     while has_next_page:
         url = base + "/candidates/?page={}&per_page=100&office=H&sort=name&".format(str(page)) \
                 + election_request + "&" + api_request
-        
+                
         results = json.loads(request_until_succeed(url))["results"]
         if results == []:
             has_next_page = False
@@ -65,6 +66,7 @@ def write_district_dict(year, candidates):
 def request_candidate_totals(candidate_id):
     url = base + "candidate/" + candidate_id + "/totals/"
     url = url + "?per_page=20&sort=-cycle&page=1&designation=P&api_key=" + api_key
+    time.sleep(0.5)
     data = json.loads(request_until_succeed(url))["results"]
     if data != []:
         return data[0]
@@ -72,19 +74,33 @@ def request_candidate_totals(candidate_id):
         return None
 
 def get_self_funds(candidates):
+    print("-------------------------------------------------------------")
+    print("Retrieving self contributions from candidates.")
     self_fund_dict = {}
+    total_candidates = len(candidates)
+    curr = 1
+
     for candidate in candidates:
+        print("candidate {} out of {}".format(str(curr), str(total_candidates)))
         totals = request_candidate_totals(candidate["candidate_id"])
         if totals is not None:
             amount = totals["candidate_contribution"]
             self_fund_dict[candidate["candidate_id"]] = amount
+        curr += 1
 
     return self_fund_dict
 
+def read_districts():
+    districts = []
+    with open("data/2018_districts.json", "r") as readfile:
+        districts = json.dumps(readfile.read())
+    return districts
+
 if __name__ == '__main__':
-    year = str(2018)
+    year = "2018"
     #Retrieve all House candidates
     candidates = get_candidates(year)
+    #districts = read_districts()
 
     #Write to file state_district:candidates
     #write_district_dict(year, candidates)
