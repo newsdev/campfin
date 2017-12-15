@@ -79,7 +79,7 @@ if __name__ == '__main__':
 
     print("Writing candidates to data/2018_rutgers.csv")
     keys = candidates[0].keys()
-    with open("data/2018_rutgers_12_13.csv", "w") as csvfile:
+    with open("data/2018_rutgers.csv", "w") as csvfile:
         dict_writer = csv.DictWriter(csvfile, keys)
         dict_writer.writeheader()
         dict_writer.writerows(candidates)

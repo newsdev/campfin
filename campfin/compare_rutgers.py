@@ -1,3 +1,4 @@
+import argparse
 import csv
 import os
 
@@ -5,6 +6,14 @@ from get_candidates import get_candidates_csv
 
 updated_female = []
 updated_all = []
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--rutgers", help="Path of Rutgers data")
+parser.add_argument("--fec", help="Path of FEC data w totals")
+
+args = parser.parse_args()
+female_path = args.rutgers
+fec_path = args.fec
 
 def compare(females, all):
     global updated_female
@@ -39,18 +48,21 @@ def write_to_csv(list, headers, path):
     print("Wrote to %s ." %path)
 
 if __name__ == '__main__':
-    females = get_candidates_csv("data/2018_rutgers_12_13.csv")
-    all = get_candidates_csv("data/2018_candidates_12_13_funds_all.csv")
+
+    """Get fec and female candidates from csvs"""
+    females = get_candidates_csv(female_path)
+    all = get_candidates_csv(fec_path)
     compare(females, all)
 
+    """Added tags to headers"""
     all_headers = set(all[0].keys())
     all_headers.add("rutgers_sex")
 
     female_headers = set(females[0].keys())
     female_headers.add("candidate_id")
-    #female_headers.add("committee_id")
 
-    write_to_csv(updated_all, all_headers, "data/fec_gender_flag.csv")
+    """Write to csvs"""
+    write_to_csv(updated_all, all_headers, "data/fec_gender.csv")
     write_to_csv(updated_female, female_headers, "data/rutgers_fec_ids.csv")
 
 

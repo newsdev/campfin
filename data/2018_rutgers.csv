@@ -1,0 +1,424 @@
+state,office,district,name,party,general_seat,filing_date,primary_date,election_date
+AZ,House,08,"Brianna, ",Westbrook (D,O,1/10/2018,2/27/2018,4/24/2018
+AZ,House,08,"Keenan, Judith",McHale (D,O,1/10/2018,2/27/2018,4/24/2018
+AZ,House,08,"Vyas, Hiral",Tipirneni (D,O,1/10/2018,2/27/2018,4/24/2018
+AZ,House,08,"Brewer, Jan",R,O,1/10/2018,2/27/2018,4/24/2018
+AZ,House,08,"Carlat, Cathy",R,O,1/10/2018,2/27/2018,4/24/2018
+AZ,House,08,"Lesko, Debbie",R,O,1/10/2018,2/27/2018,4/24/2018
+AZ,House,08,"Yee, Kimberly",R,O,1/10/2018,2/27/2018,4/24/2018
+AL,House,02,"Roby, Martha",R,I,2/9/2018,6/5/2018,11/6/2018
+AL,House,02,"Williams, Audri Scott",D,C,2/9/2018,6/5/2018,11/6/2018
+AL,House,02,"Isner, Tabitha Kay",D,C,2/9/2018,6/5/2018,11/6/2018
+AL,House,07,"Sewell, Terri A.",D,I,2/9/2018,6/5/2018,11/6/2018
+AR,House,02,"Combs, Gwendolyn Millen",D,C,3/1/2018,5/22/2018,11/6/2018
+AR,House,04,"Shamel, Hayden C.",D,C,3/1/2018,5/22/2018,11/6/2018
+AZ,Senate,,"Ward, Kelli",R,O,5/30/2018,8/28/2018,11/6/2018
+AZ,Senate,,"Abboud, Deedra",D,O,5/30/2018,8/28/2018,11/6/2018
+AZ,Senate,,"Sinema, Kyrsten",D,O,5/30/2018,8/28/2018,11/6/2018
+AZ,Senate,,"McSally, Martha",R,O,5/30/2018,8/28/2018,11/6/2018
+AZ,House,01,"Shedd, Tiffany",R,C,5/30/2018,8/28/2018,11/6/2018
+AZ,House,02,"Kirkpatrick, Ann L.",D,C,5/30/2018,8/28/2018,11/6/2018
+AZ,House,02,"Matiella, Mary Sally",D,C,5/30/2018,8/28/2018,11/6/2018
+AZ,House,02,"Sherry, Barbara Louise",D,C,5/30/2018,8/28/2018,11/6/2018
+AZ,House,03,"Miguel, Edna San",R,C,5/30/2018,8/28/2018,11/6/2018
+AZ,House,04,"Maria, Ana",Perez(D,C,5/30/2018,8/28/2018,11/6/2018
+AZ,House,05,"Greene, Joan",D,C,5/30/2018,8/28/2018,11/6/2018
+AZ,House,06,"Ross, Heather Maura",D,C,5/30/2018,8/28/2018,11/6/2018
+AZ,House,06,"Malik, Anita",D,C,5/30/2018,8/28/2018,11/6/2018
+AZ,House,07,"Miranda, Catherine",D,CP,5/30/2018,8/28/2018,11/6/2018
+AZ,House,09,"Behr, Irina Baroness Von",R,C,5/30/2018,8/28/2018,11/6/2018
+AZ,House,09,"Fuentes, Talia",D,CP,5/30/2018,8/28/2018,11/6/2018
+CA,Senate,,"Feinstein, Dianne",D,I,3/9/2018,6/5/2018,11/6/2018
+CA,Senate,,"Lancona, Caren D.",R,C,3/9/2018,6/5/2018,11/6/2018
+CA,Senate,,"Hartson, Alison M.",D,CP,3/9/2018,6/5/2018,11/6/2018
+CA,House,01,"Holcombe, Jessice",D,C,3/9/2018,6/5/2018,11/6/2018
+CA,House,01,"Walters, Martha",D,C,3/9/2018,6/5/2018,11/6/2018
+CA,House,04,"Bateson, Regina",D,C,3/9/2018,6/5/2018,11/6/2018
+CA,House,04,"Calderon, Roza I.",D,C,3/9/2018,6/5/2018,11/6/2018
+CA,House,04,"Morse, Jessica",D,C,3/9/2018,6/5/2018,11/6/2018
+CA,House,06,"Matsui, Doris O.",D,I,3/9/2018,6/5/2018,11/6/2018
+CA,House,10,"Nygard, Dotty",D,C,3/9/2018,6/5/2018,11/6/2018
+CA,House,10,"Madueno, Virginia",D,C,3/9/2018,6/5/2018,11/6/2018
+CA,House,10,"Zwahlen, Sue",D,C,3/9/3018,6/5/2018,11/6/2018
+CA,House,12,"Pelosi, Nancy",D,I,3/9/2018,6/5/2018,11/6/2018
+CA,House,13,"Lee, Barbara J.",D,I,3/9/2018,6/5/2018,11/6/2018
+CA,House,14,"Speier, Jackie",D,I,3/9/2018,6/5/2018,11/6/2018
+CA,House,18,"Eshoo, Anna G.",D,I,3/9/2018,6/5/2018,11/6/2018
+CA,House,19,"Lofgren, Zoe",D,I,3/9/2018,6/5/2018,11/6/2018
+CA,House,22,"Kremer, Mallory",D,C,3/9/2018,6/5/2018,11/6/2018
+CA,House,23,"Reed, Wendy",D,C,3/9/2018,6/5/2018,11/6/2018
+CA,House,23,"Matta, Tatiana",D,C,3/9/2018,6/5/2018,11/6/2018
+CA,House,25,"Hill, Katherine L.",D,C,3/9/2018,6/5/2018,11/6/2018
+CA,House,25,"Phoenix, Jess",D,C,3/9/2018,6/5/2018,11/6/2018
+CA,House,25,"Greenaway, Diedra M.",D,C,3/9/2018,6/5/2018,11/6/2018
+CA,House,26,"Brownley, Julia",D,I,3/9/2018,6/5/2018,11/6/2018
+CA,House,27,"Chu, Judy",D,I,3/9/2018,6/5/2018,11/6/2018
+CA,House,32,"Napolitano, Grace F.",D,I,3/9/2018,6/5/2018,11/6/2018
+CA,House,34,"Mendoza, Sandra",D,CP,3/9/2018,6/5/2018,11/6/2018
+CA,House,35,"Torres, Norma J.",D,I,3/9/2018,6/5/2018,11/6/2018
+CA,House,36,"Pelzer, Kimberlin Brown",R,C,3/9/2018,6/5/2018,11/6/2018
+CA,House,37,"Bass, Karen R.",D,I,3/9/2018,6/5/2018,11/6/2018
+CA,House,38,"Sanchez, Linda T.",D,I,3/9/2018,6/5/2018,11/6/2018
+CA,House,39,"Tran, Mai-Khanh",D,C,3/9/2018,6/5/2018,11/6/2018
+CA,House,40,"Roybal-Allard, Lucille",D,I,3/9/2018,6/5/2018,11/6/2018
+CA,House,41,"Smith, Aja",R,C,3/9/2018,6/5/2018,11/6/2018
+CA,House,42,"Peacock, Julia C.",D,C,3/9/2018,6/5/2018,11/6/2018
+CA,House,43,"Waters, Maxine",D,I,3/9/2018,6/5/2018,11/6/2018
+CA,House,44,"Barragan, Nanette Diaz",D,I,3/9/2018,6/5/2018,11/6/2018
+CA,House,45,"Walters, Mimi",R,I,3/9/2018,6/5/2018,11/6/2018
+CA,House,45,"Porter, Katherine",D,C,3/9/2018,6/5/2018,11/6/2018
+CA,House,48,"Oatman, Laura",D,C,3/9/2018,6/5/2018,11/6/2018
+CA,House,49,"Jacobs, Sara",D,C,3/9/2018,6/5/2018,11/6/2018
+CA,House,53,"Davis, Susan A.",D,I,3/9/2018,6/5/2018,11/6/2018
+CO,House,01,"DeGette, Diana L.",D,I,3/20/2018,6/26/2018,11/6/2018
+CO,House,02,"Markey, Betsy",D,O,3/20/2018,6/26/2018,11/6/2018
+CO,House,03,"Bush, Dianne E. Mitsch",D,C,3/20/2018,6/26/2018,11/6/2018
+CO,House,04,"McCormick, Karen A.",D,C,3/20/2018,6/26/2018,11/6/2018
+CO,House,05,"Field, Betty",D,C,3/20/2018,6/26/2018,11/6/2018
+CO,House,05,"Spaulding, Stephany Rose",D,C,3/20/2018,6/26/2018,11/6 2018
+CO,House,07,"Kraft-Tharp, Tracy",D,O,3/20/2018,6/26/2018,11/6/2018
+CO,House,07,"Pettersen, Brittany",D,O,3/20/2018,6/26/2018,11/6/2018
+CO,House,07,"Szabo, Libby",R,O,3/20/2018,6/26/2018,11/6/2018
+CT,Senate,,"Adams, Ann-Marie",D,CP,6/12/2018,8/14/2018,11/6/2018
+CT,House,03,"DeLauro, Rosa L.",D,I,6/12/2018,8/14/2018,11/6/2018
+CT,House,05,"Esty, Elizabeth H.",D,I,6/12/2018,8/14/2018,11/6/2018
+DE,House,AL,"Rochester, Lisa Blunt",D,I,7/10/2018,9/6/2018,11/6/2018
+FL,Senate,,"Jones, Lateresa A.",R,C,5/4/2018,8/28/2018,11/6/2018
+FL,Senate,,"Lyles, Tamika",D,CP,5/4/2018,8/28/2018,11/6/2018
+FL,Senate,,"Thorne, Marcia",R,C,5/4/2018,8/28/2018,11/6/2018
+FL,House,03,"Hinson, Yvonne Hayes",D,C,5/4/2018,8/28/2018,11/6/2018
+FL,House,04,"DePaul, Monica Paige",D,C,5/4/2018,8/28/2018,11/6/2018
+FL,House,05,"Love, Pam",R,C,5/4/2018,8/28/2018,11/6/2018
+FL,House,06,"Soderberg, Nancy E.",D,C,6/4/2018,8/28/2018,11/6/2018
+FL,House,07,"Murphy, Stephanie",D,I,5/4/2018,8/28/2018,11/6/2018
+FL,House,08,"Grayson, Dena M. Minning",D,C,5/4/2018,8/28/2018,11/6/2018
+FL,House,10,"Demings, Val B.",D,I,5/4/2018,8/28/2018,11/6/2018
+FL,House,12,"Walker, Kimberly H.",D,C,5/4/2018,8/28/2018,11/6/2018
+FL,House,14,"Castor, Kathy A.",D,I,5/4/2018,8/28/2018,11/6/2018
+FL,House,14,"Quinn, Christine Y.",R,C,5/4/2018,8/28/2018,11/6/2018
+FL,House,15,"Miller, Loretta",R,CP,5/4/2018,8/28/2018,11/6/2018
+FL,House,17,"Freeman, April J.",D,C,5/4/2018,8/28/2018,11/6/2018
+FL,House,18,"Keith, Pamela",D,C,5/4/2018,8/28/2018,11/6/2018
+FL,House,18,"Baer, Lauren",D,C,5/4/2018,8/28/2018,11/6/2018
+FL,House,21,"Frankel, Lois J.",D,I,5/4/2018,8/28/2018,11/6/2018
+FL,House,23,"Schultz, Debbie Wasserman",D,I,5/4/2018,8/28/2018,11/6/2018
+FL,House,23,"Spalding, Carla A.",R,C,5/4/2018,8/28/2018,11/6/2018
+FL,House,24,"Wilson, Frederica S.",D,I,5/4/2018,8/28/2018,11/6/2018
+FL,House,25,"Valdes, Alina",D,C,5/4/2018,8/28/2018,11/6/2018
+FL,House,26,"Mucarsel-Powell, Debbie",D,C,5/4/2018,8/28/2018,11/6/2018
+FL,House,27,"Flores, Anitere",R,O,5/4/2018,8/28/2018,11/6/2018
+FL,House,27,"Gonzalez, Kristen Rosen",D,O,5/4/2018,8/28/2018,11/6/2018
+FL,House,27,"Flores, Mary Barzee",D,O,5/4/2018,8/28/2018,11/6/2018
+FL,House,27,"Nunez, Jeanette",R,O,5/4/2018,8/28/2018,11/6/2018
+FL,House,27,"Aguilera, Bettina Rodriguez",R,O,5/4/2018,8/28/2018,11/6/2018
+GA,House,01,"Ring, Lisa M.",D,C,3/9/2018,5/22/2018,11/6/2018
+GA,House,01,"Seidman, Barbara A.",D,C,3/9/2018,5/22/2018,11/6/2018
+GA,House,06,"Handel, Karen",R,I,3/9/2018,5/22/2018,11/6/2018
+GA,House,07,"Allen, Kathleen",D,C,3/9/2018,5/22/2018,11/6/2018
+GA,House,07,"Bourdeaux, Carolyn",D,C,3/9/2018,5/22/2018,11/6/2018
+GA,House,07,"Davis, Melissa",D,C,3/9/2018,5/22/2018,11/6/2018
+GA,House,10,"Collins, Kellie L.",D,C,3/9/2018,5/22/2018,11/6/2018
+GA,House,10,"Montgonmery, Chalis Pomeroy",D,C,3/9/2018,5/22/2018,11/6/2018
+GA,House,11,"Webster, Elizabeth N.",D,C,3/9/2018,5/22/2018,11/6/2018
+HI,Senate,,"Hirono, Mazie K.",D,I,6/5/2018,8/11/2018,11/6/2018
+HI,House,01,"Kim, Donna Mercado",D,O,6/5/2018,8/11/2018,11/6/2018
+HI,House,02,"Gabbard, Tulsi",D,I,6/5/2018,8/11/2018,11/6/2018
+HI,House,02,"Campagna, Sherly F.",D,CP,6/5/2018,8/11/2018,11/6/2018
+IA,House,01,"Finkenauer, Abby",D,C,3/16/2018,6/5/2018,11/6/2018
+IA,House,01,"Rowe, Courtney",D,C,3/16/2018,6/5/2018,11/6/2018
+IA,House,03,"Axne, Cindy",D,C,3/16/2018,6/5/2018,11/6/2018
+IA,House,03,"Ryan, Heather A.",D,C,3/16/2018,6/5/2018,11/6/2018
+IA,House,03,"Greenfield, Theresa A.",D,C,3/16/2018,6/5/2018,11/6/2018
+IA,House,04,"Jacobsen, Leann",D,C,3/16/2018,6/5/2018,11/6/2018
+ID,House,01,"Perry, Christy",R,O,3/9/2018,5/15/2018,11/6/2018
+IL,House,02,"Kelly, Robin L.",D,I,12/4/2017,3/20/2018,11/6/2018
+IL,House,03,"Newman, Marie",D,CP,12/4/2017,3/20/2018,11/6/2018
+IL,House,04,"Flores, Sol",D,O,12/4/2017,3/20/2018,11/6/2018
+IL,House,04,"Rowland, Neli Vazquez",D,O,12/4/2017,3/20/2018,11/6/2018
+IL,House,04,"Melichar, Ann",R,O,12/4/2018,3/20/2018,11/6/2018
+IL,House,05,"Mustafa, Sameena",D,CP,12/4/2017,3/20/2018,11/6/2018
+IL,House,06,"Howland, Amanda D.",D,C,12/4/2017,3/20/2018,11/6/2018
+IL,House,06,"Cheney, Carole",D,C,12/4/2017,3/20/2018,11/6/2018
+IL,House,06,"Mazeski, Kelly",D,C,12/4/2017,3/20/2018,11/6/2018
+IL,House,06,"Zordani, Jennifer",D,C,12/4/2017,3/20/2018,11/6/2018
+IL,House,06,"Wilkins, Becky Anderson",D,C,12/4/2017,3/20/2018,11/6/2018
+IL,House,08,"Jhingan, Vandana",R,C,12/4/2017,3/20/2018,11/6/2018
+IL,House,09,"Schakowsky, Jan D.",D,I,12/4/2017,3/20/2018,11/6/2018
+IL,House,13,"Londrigan, Betsy Dirksen",D,C,12/4/2017,3/20/2018,11/6/2018
+IL,House,13,"Sides, Angel",D,C,12/4/2018,3/20/2018,11/6/2018
+IL,House,14,"Underwood, Lauren A.",D,C,12/4/2017,3/20/2018,11/6/2018
+IL,House,16,"Dady, Sara",D,C,12/4/2017,3/20/2018,11/6/2018
+IL,House,16,"Briel, Amy Murri",D,C,12/4/2017,3/20/2018,11/6/2018
+IL,House,16,"Vercolio-Osmund, Beth",D,C,12/4/2017,3/20/2018,11/6/2018
+IL,House,17,"Bustos, Cheri L.",D,I,12/4/2017,3/20/2018,11/6/2018
+IN,House,02,"Walorski, Jackie Swihart",R,I,2/9/2018,5/8/2018,11/6/2018
+IN,House,02,"Hackett, Mary Patricia",D,C,2/9/2018,5/8/2018,11/6/2018
+IN,House,03,"Tritch, Courtney",D,C,2/9/2018,5/8/2018,11/6/2018
+IN,House,04,"Shipley, Sheryl",D,O,2/9/2018,5/8/2018,11/6/2018
+IN,House,04,"Beck, Tobi",D,O,2/9/2018,5/8/2018,11/6/2018
+IN,House,05,"Brooks, Susan W.",R,I,2/9/2018,5/8/2018,11/6/2018
+IN,House,07,"Spicer, Sue",D,CP,2/9/2018,5/8/2018,11/6/2018
+IN,House,09,"Watson, Liz",D,C,2/9/2018,5/8/2018,11/6/2018
+KS,House,02,"Tyson, Caryn",R,O,6/1/2018,8/7/2018,11/6/2018
+KS,House,04,"Lombard, Laura",D,C,6/1/2018,8/7/2018,11/6/2018
+KY,House,04,"Lord, Christina",D,C,1/30/2018,5/22/2018,11/6/2018
+KY,House,06,"McGrath, Amy",D,C,1/30/2018,5/22/2018,11/6/2018
+KY,House,06,"Combs, Leslie",D,C,1/30/2018,5/22/2018,11/6/2018
+MA,Senate,,"Warren, Elizabeth A.",D,I,6/5/2018,9/18/2018,11/6/2018
+MA,Senate,,"Lindstrom, Beth",R,C,6/5/2018,9/18/2018,11/6/2018
+MA,Senate,,"Wellman, Heidi M.",R,C,6/5/2018,9/18/2018,11/6/2018
+MA,House,03,"Donoghue, Eileen",D,O,6/5/2018,9/18/2018,11/6/2018
+MA,House,03,"L'Italien, Barbara",D,O,6/5/2018,9/18/2018,11/6/2018
+MA,House,03,"Harrington, Sheila",R,O,6/5/2018,9/18/2018,11/6/2018
+MA,House,03,"Meehan, Ellen",D,O,6/5/2018,9/18/2018,11/6/2018
+MA,House,03,"Trahan, Lori",D,O,6/5/2018,9/18/2018,11/6/2018
+MA,House,03,"Matias, Juana B.",D,O,6/5/2018,9/18/2018,11/6/2018
+MA,House,03,"Chandler, Alexandra E.",D,O,6/5/2018,9/18/2018,11/6/2018
+MA,House,03,"Malone, Bopha T.",D,O,6/5/2018,9/18/2018,11/6/2018
+MA,House,05,"Clark, Katherine M.",D,I,6/5/2018,9/18/2018,11/6/2018
+MA,House,08,"Wu, Brianna",D,CP,6/5/2018,9/18/2018,11/6/2018
+MD,Senate,,"Wilson, Debbie F.",D,CP,2/27/2018,6/26/2018,11/6/2018
+MD,House,01,"Galbraith, Allison",D,C,2/27/2018,6/26/2018,11/6/2018
+MD,House,04,"Black, Thereasa M.",D,CP,2/27/2018,6/26/2018,11/6/2018
+MD,House,06,"Miller, Aruna",D,O,2/27/2018,6/26/2018,11/6/2018
+MD,House,06,"Schulz, Kelly",R,O,2/27/2018,6/26/2018,11/6/2018
+MD,House,06,"Hoeber, Amie",R,O,2/27/2018,6/26/2018,11/6/2018
+ME,House,01,"Pingree, Chellie M.",D,I,,6/12/2018,11/6/2018
+MI,Senate,,"Stabenow, Debbie A.",D,I,4/24/2018,8/7/2018,11/6/2018
+MI,House,03,"Albro, Cathy",D,C,4/24/2018,8/7/2018,11/6/2018
+MI,House,07,"D., Gretchen",Driskell (D,C,4/24/2018,8/7/2018,11/6/2018
+MI,House,08,"Slotkin, Elissa",D,C,4/24/2018,8/7/2018,11/6/2018
+MI,House,11,"Stevens, Haley",D,O,4/24/2018,8/7/2018,11/6/2018
+MI,House,11,"Saad, Fayrouz",D,O,4/24/2018,8/7/2018,11/6/2018
+MI,House,11,"Epstein, Lena",R,O,4/24/2018,8/7/2018,11/6/2018
+MI,House,12,"Dingell, Debbie",D,I,4/24/2018,8/7/2018,11/6/2018
+MI,House,14,"Lawrence, Brenda L.",D,I,4/24/2018,8/7/2018,11/6/2018
+MN,Senate,,"Klobuchar, Amy",DFL,I,6/5/2018,8/14/2018,11/6/2018
+MN,Senate,,"Smith, Tina",DFL,I,6/5/2018,8/14/2018,11/6/2018
+MN,House,01,"Jensen, Vicki",DFL,O,6/5/2018,8/14/2018,11/6/2018
+MN,House,01,"Mustafa, Regina",DFL,O,6/5/2018,8/14/2018,11/6/2018
+MN,House,01,"Nelson, Carla",R,O,6/5/2018,8/14/2018,11/6/2018
+MN,House,02,"Craig, Angela",DFL,C,6/5/2018,8/14/2018,11/6/2018
+MN,House,03,"Donahue, Alicia",DFL,C,6/5/2018,8/14/2018,11/6/2018
+MN,House,04,"McCollum, Betty",DFL,I,6/5/2018,8/14/2018,11/6/2018
+MN,House,08,"Philfer, Leah",DFL,CP,6/5/2018,8/14/2018,11/6/2018
+MO,Senate,,"McCaskill, Claire",D,I,3/27/2018,8/7/2018,11/6/2018
+MO,Senate,,"Haefner, Marsha",R,C,3/27/2018,8/7/2018,11/6/2018
+MO,Senate,,"Earl, Angelica",D,CP,3/27/2018,8/7/2018,11/6/2018
+MO,House,01,"Bolhafner, Susan",D,CP,3/27/2018,8/7/2018,11/6/2018
+MO,House,01,"Bush, Cori",D,CP,3/27/2018,8/7/2018,11/6/2018
+MO,House,02,"Wagner, Ann L.",R,I,3/27/2018,8/7/2018,11/6/2018
+MO,House,02,"Dunaway, Kelli L.",D,C,3/27/2018,8/7/2018,11/6/2018
+MO,House,04,"Hartzler, Vicky Jo",R,I,3/27/2018,8/7/2018,11/6/2018
+MO,House,04,"Hoagenson, Suzanne Renee",D,C,3/27/2018,8/7/2018,11/6/2018
+MO,House,04,"Bourgeois, Jenna M.",R,C,3/27/2018,8/7/2018,11/6/2018
+MO,House,06,"Squires, Jenna",D,C,3/27/2018,8/7/2018,11/6/2018
+MO,House,08,"Ellis, Kathryn",D,C,3/27/2018,8/7/2018,11/6/2018
+MT,Senate,,"Dean, Sarah A.",D,CP,3/12/2018,6/5/2018,11/6/2018
+MT,House,AL,"Curtis, Amanda",D,D,3/12/2018,6/5/2018,11/6/2018
+MT,House,AL,"Moss, Lynda Bourque",D,C,3/12/2018,6/5/2018,11/6/2018
+MT,House,AL,"Williams, Kathleen",D,C,3/12/2018,6/5/2018,11/6/2018
+NC,House,02,"May, Wendy Ella",D,C,2/28/2018,5/8/2018,11/6/2018
+NC,House,02,"Coleman, Linda D.",D,C,2/28/2018,5/8/2018,11/6/2018
+NC,House,04,"Brian, Lee Andrea",R,C,2/28/2018,5/8/2018,11/6/2018
+NC,House,05,"Foxx, Virginia A.",R,I,2/28/2018,5/8/2018,11/6/2018
+NC,House,05,"Adams, Denise Darcel",D,C,2/28/2018,5/8/2018,11/6/2018
+NC,House,05,"Marshall, Jennifer",D,C,2/28/2018,5/8/2018,11/6/2018
+NC,House,07,"Horton, Kyle",D,C,2/28/2018,5/8/2018,11/6/2018
+NC,House,09,"Warren, Maria Collins",D,C,2/28/2018,5/8/2018,11/6/2018
+NC,House,12,"Adams, Alma S.",D,I,2/28/2018,5/8/2018,11/6/2018
+NC,House,13,"Manning, Kathy",D,C,2/28/2018,5/8/2018,11/6/2018
+ND,Senate,,"Heitkamp, Heidi",D-NPL,I,4/9/2018,6/12/2018,11/6/2018
+ND,Senate,,"Neset, Kathy",R,C,4/9/2018,6/12/2018,11/6/2018
+NE,Senate,,"Fischer, Deb",R,I,3/1/2018,5/15/2018,11/6/2018
+NE,Senate,,"Raybould, Jane",D,C,3/1/2018,5/15/2018,11/6/2018
+NE,House,01,"McClure, Jessica",D,C,3/1/2018,5/15/2018,11/6/2018
+NE,House,02,"Eastman, Kara",D,C,3/1/2018,5/15/2018,11/6/2018
+NH,House,01,"Sullivan, Maura C.",D,O,6/15/2018,9/11/2018,11/6/2018
+NH,House,01,"Messmer, Mindi F.",D,O,6/15/2018,9/11/2018,11/6/2018
+NH,House,02,"Kuster, Ann McLane",D,I,6/15/2018,9/11/2018,11/6/2018
+NH,House,02,"Blankenbeker, Lynne",R,C,6/15/2018,9/11/2018,11/6/2018
+NJ,Senate,,"McCormick, Lisa",D,CP,4/2/2018,6/5/2018,11/6/2018
+NJ,House,02,"Youngblood, Tanzie",D,O,4/2/2018,6/5/2018,11/6/2018
+NJ,House,07,"Brown, Lindsay",R,CP,4/2/2018,6/5/2018,11/6/2018
+NJ,House,07,"Weber, Linda",D,C,4/2/2018,6/5/2018,11/6/2018
+NJ,House,07,"Mandelblatt, Lisa",D,C,4/2/2018,6/5/2018,11/6/2018
+NJ,House,11,"Sherrill, Mikie",D,C,4/2/2018,6/5/2018,11/6/2018
+NJ,House,11,"Harris, Tamara",D,C,4/2/2018,6/5/2018,11/6/2018
+NJ,House,12,"Coleman, Bonnie Watson",D,I,4/2/2018,6/5/2018,11/6/2018
+NM,House,01,"Lopez, Antoinette Sedillo",D,O,3/13/2018,6/5/2018,11/6/2018
+NM,House,01,"Haaland, Debra A.",D,O,3/13/2018,6/5/2018,11/6/2018
+NM,House,01,"Arnold-Jones, Janice",R,O,3/13/2018,6/5/2018,11/6/2018
+NM,House,02,"Hildebrandt, Lori M.",D,O,3/13/2018,6/5/2018,11/6/2018
+NM,House,02,"Herrell, Yvette",R,O,3/13/2018,6/5/2018,11/6/2018
+NV,Senate,,"Rosen, Jacklyn S.",D,C,3/16/2018,6/12/2018,11/6/2018
+NV,House,01,"Titus, Dina C.",D,I,3/16/2018,6/12/2018,11/6/2018
+NV,House,02,"Angle, Sharron E. Ott",R,CP,3/16/2018,6/12/2018,11/6/2018
+NV,House,03,"Seaman, Victoria",R,O,3/16/2018,6/12/2018,11/6/2018
+NV,House,03,"Cannizzaro, Nicole",D,O,3/16/2018,6/12/2018,11/6/2018
+NV,House,03,"Woodhouse, Joyce",D,O,3/16/2018,6/12/2018,11/6/2018
+NV,House,03,"Lee, Susie",D,O,3/16/2018,6/12/2018,11/6/2018
+NV,House,03,"Gulbis, Natalie",R,O,3/16/2018,6/12/2018,11/6/2018
+NV,House,03,"Mortensen, Michelle",R,O,3/16/2018,6/12/2018,11/6/2018
+NV,House,04,"Vilela, Amy",D,CP,3/16/2018,6/12/2018,11/6/2018
+NY,Senate,,"Gillibrand, Kirsten E.",D,I,4/12/2018,6/26/2018,11/6/2018
+NY,House,01,"Viloria-Fisher, Vivian",D,C,4/12/2018,6/26/2018,11/6/2018
+NY,House,01,"DiMasi, Elaine",D,C,4/12/2018,6/26/2018,11/6/2018
+NY,House,01,"Browning, Kate",D,C,4/12/2018,6/26/2018,11/6/2018
+NY,House,02,"Shirley, Liuba Grechen",D,C,4/12/2018,6/26/2018,11/6/2018
+NY,House,04,"Rice, Kathleen M.",D,I,4/12/2018,6/26/2018,11/6/2018
+NY,House,06,"Meng, Grace",D,I,4/12/2018,6/26/2018,11/6/2018
+NY,House,07,"Velazquez, Nydia M.",D,I,4/12/2018,6/26/2018,11/6/2018
+NY,House,09,"Clarke, Yvette D.",D,I,4/12/2018,6/26/2018,11/6/2018
+NY,House,12,"Maloney, Carolyn B.",D,I,4/12/2018,6/26/2018,11/6/2018
+NY,House,14,"Ocasio-Cortez, Alexandria",D,CP,4/12/2018,6/26/2018,11/6/2018
+NY,House,17,"Lowey, Nita M.",D,I,4/12/2018,6/26/2018,11/6/2018
+NY,House,18,"Brown, Sakima A.",R,C,4/12/2018,6/26/2018,11/6/2018
+NY,House,21,"Stefanik, Elise M.",R,I,4/12/2018,6/26/2018,11/6/2018
+NY,House,21,"Cobb, Tedra L.",D,C,4/12/2018,6/26/2018,11/6/2018
+NY,House,21,"Martz, Emily",D,C,4/12/2018,6/26/2018,11/6/2018
+NY,House,21,"Wilson, Katie",D,C,4/12/2018,6/26/2018,11/6/2018
+NY,House,21,"Boone, Tanya",D,C,4/12/2018,6/26/2018,11/6/2018
+NY,House,22,"Tenney, Claudia",R,I,4/12/2018,6/26/2018,11/6/2018
+NY,House,23,"Mitrano, Tracy",D,C,4/12/2018,6/26/2018,11/6/2018
+NY,House,24,"Messenger, Anne",D,C,4/12/2018,6/26/2018,11/6/2018
+NY,House,24,"Balter, Dana",D,C,4/12/2018,6/26/2018,11/6/2018
+NY,House,25,"Slaughter, Louise M.",D,I,4/12/2018,6/26/2018,11/6/2018
+OH,Senate,,"Ackison, Melissa",R,C,2/7/2018,5/8/2018,11/6/2018
+OH,House,01,"Weaver, Laura Ann",D,C,2/7/2018,5/8/2018,11/6/2018
+OH,House,01,"Young, Michele L.",D,C,2/7/2018,5/8/2018,11/6/2018
+OH,House,02,"Everhard, Janet S.",D,C,2/7/2018,5/8/2018,11/6/2018
+OH,House,03,"Beatty, Joyce B.",D,I,2/7/2018,5/8/2018,11/6/2018
+OH,House,09,"Kaptur, Marcy C.",D,I,2/7/2018,5/8/2018,11/6/2018
+OH,House,11,"Fudge, Marcia L.",D,I,2/7/2018,5/8/2018,11/6/2018
+OH,House,12,"O'Brien, Carol",R,O,2/7/2018,5/8/2018,11/6/2108
+OH,House,14,"Rader, Betsy",D,C,2/7/2018,5/8/2018,11/6/2018
+OH,House,16,"Hagan, Christina M.",R,O,2/7/2018,5/8/2018,11/6/2018
+OK,House,05,"Horn, Kendra",D,C,4/13/2018,6/26/2018,11/6/2018
+OR,House,01,"Bonamici, Suzanne M.",D,I,3/6/2018,5/15/2018,11/6/2018
+OR,House,02,"Scdoris-Salerno, Rachel",D,C,3/6/2018,5/15/2018,11/6/2018
+OR,House,02,"McLeod-Skinner, Jamie",D,C,3/6/2018,5/15/2018,11/6/2018
+OR,House,04,"Perkinds, Jo Rae",R,C,3/6/2018,5/15/2018,11/6/2018
+PA,Senate,,"Ayers, Cynthia E.",R,C,3/6/2018,5/15/2018,11/6/2018
+PA,Senate,,"Wright, Theresa M.",D,CP,3/6/2018,5/15/2018,11/6/2018
+PA,House,01,"Li, Lindy",D,CP,3/6/2018,5/15/2018,11/6/2018
+PA,House,01,"Ahmad, Nina N.",D,CP,3/6/2018,5/15/2018,11/6/2018
+PA,House,06,"Houlahan, Chrissy",D,C,3/6/2018,5/15/2018,11/6/2018
+PA,House,07,"Sheehan, Molly",D,C,3/6/2018,5/15/2018,11/6/2018
+PA,House,07,"Moro, Elizabeth",D,C,3/6/2018,5/15/2018,11/6/2018
+PA,House,08,"Reddick, Rachel",D,C,3/6/2018,5/15/2018,11/6/2108
+PA,House,08,"Mihalek, Valerie L.",R,CP,3/6/2018,5/15/2018,11/6/2018
+PA,House,10,"Herschel, Judith L.",D,C,3/6/2018,5/15/2018,11/6/2018
+PA,House,11,"Sebastian, Gigi",D,O,3/6/2018,5/15/2018,11/6/2018
+PA,House,12,"Tarasi, Beth",D,C,3/6/2018,5/15/2018,11/6/2018
+PA,House,15,"Quick, Laura",D,O,3/6/2018,5/15/2018,11/6/2018
+PA,House,15,"Wild, Susan Ellis",D,O,3/6/2018,5/15/2018,11/6/2018
+PA,House,16,"Hartman, Christina M.",D,C,3/6/2018,5/15/2018,11/6/2018
+PA,House,16,"King, Jessica",D,C,3/6/2018,5/15/2018,11/6/2018
+SC,House,01,"Arrington, Katherine E.",R,CP,3/30/2018,6/12/2018,11/6/2018
+SC,House,02,"Robertson, Annabelle",D,C,3/30/2018,6/12/2018,11/6/2018
+SC,House,03,"Geren, Mary Smith",D,C,3/30/2018,6/12/2018,11/6/2018
+SD,House,AL,"Krebs, Shantel",R,O,3/27/2018,6/5/2018,11/6/2018
+TN,Senate,,"Marsha, ",Blackburn (R,O,4/5/2018,8/2/2018,11/6/2018
+TN,House,02,"Massey, Becky Duncan",R,O,4/5/2018,8/2/2018,11/6/2018
+TN,House,02,"Hoyos, Renee",D,O,4/5/2018,8/2/2018,11/6/2018
+TN,House,03,"Mitchell, Danielle",D,C,4/5/2018,8/2/2018,11/6/2018
+TN,House,04,"Phillips, Mariah N.",D,C,4/5/2018,8/2/2018,11/6/2018
+TX,Senate,,"Hernandez, Sema",D,C,12/11/2017,3/6/2018,11/6/2018
+TX,Senate,,"Sam, Geraldine",D,C,12/11/2017,3/6/2018,11/6/2018
+TX,House,01,"McKellar, Shirley J.",D,C,12/11/2017,3/6/2018,11/6/2018
+TX,House,02,"Malik, Silky",D,O,12/11/2017,3/6/2018,11/6/2018
+TX,House,03,"Burch, Lorie L.",D,O,12/11/2017,3/6/2018,11/6/2018
+TX,House,05,"Pounds, Bunni",R,O,12/11/2017,3/6/2018,11/6/2018
+TX,House,06,"Sanchez, Jana L.",D,O,12/11/2017,3/6/2018,11/6/2018
+TX,House,06,"Woolridge, Ruby Faye",D,O,12/11/2017,3/6/2018,11/6/2018
+TX,House,07,"Fletcher, Elizabeth Pannill",D,C,12/11/2017,3/6/2018,11/6/2018
+TX,House,07,"Moser, Laura",D,C,12/11/2017,3/6/2018,11/6/2018
+TX,House,10,"Walker, Tami",D,C,12/11/2017,3/6/2018,11/6/2018
+TX,House,10,"Walter-Cadien, Tawana",D,C,12/11/2017,3/6/2018,11/6/2018
+TX,House,11,"Leeder, Virginia",D,C,12/11/2017,3/6/2018,11/6/2018
+TX,House,12,"Granger, Kay N.",R,I,12/11/2017,3/6/2018,11/6/2018
+TX,House,12,"Adia, Vanessa M.",D,C,12/11/2017,3/6/2018,11/6/2018
+TX,House,14,"Bell, Adrienne",D,C,12/11/2017,3/6/2018,11/6/2018
+TX,House,16,"LeClaire, Nicole J.",D,O,12/11/2017,3/6/2018,11/6/2018
+TX,House,16,"Fenenbock, Dori",D,O,12/11/2017,3/6/2018,11/6/2018
+TX,House,16,"Escobar, Veronica",D,O,12/11/2017,3/6/2018,11/6/2018
+TX,House,16,"Garcia-Ureste, Alia",R,O,12/11/2017,3/6/2018,11/6/2018
+TX,House,18,"Lee, Sheila Jackson",D,I,12/11/2017,3/6/2018,11/6/2018
+TX,House,18,"Bartley, Lori A.",R,C,12/11/2017,3/6/2018,11/6/2018
+TX,House,18,"Pate, Ava",R,C,12/11/2017,3/6/2018,11/6/2018
+TX,House,21,"Wilson, Mary E.",D,O,12/11/2017,3/6/2018,11/6/2018
+TX,House,21,"Narvaiz, Susan",R,O,12/11/2017,3/6/2018,11/6/2018
+TX,House,22,"Plummer, Letitia L.",D,C,12/11/2017,3/6/2018,11/6/2018
+TX,House,23,"Jones, Gina Ortiz",D,C,12/11/2017,3/6/2018,11/6/2018
+TX,House,23,"Arredondo-Lynch, Alma",R,CP,12/11/2017,3/6/2018,11/6/2018
+TX,House,23,"Canales, Judy",D,C,12/11/2017,3/6/2018,11/6/2018
+TX,House,24,"McDowell, Jan",D,C,12/11/2017,3/6/2018,11/6/2018
+TX,House,25,"Thomas, Kathleen",D,C,12/11/2017,3/6/2018,11/6/2018
+TX,House,25,"Oliver, Julie K.",D,C,12/11/2017,3/6/2018,11/6/2018
+TX,House,26,"Fagan, Linsey E.",D,C,12/11/2017,3/6/2018,11/6/2018
+TX,House,26,"Birkenstock, Veronica",R,CP,12/11/2017,3/6/2018,11/6/2018
+TX,House,29,"Garcia, Sylvia R.",D,O,12/11/2017,3/6/2018,11/6/2018
+TX,House,29,"Garcia, Dominique",D,O,12/11/2017,3/6/2018,11/6/2018
+TX,House,30,"Johnson, Eddie Bernice",D,I,12/11/2017,3/6/2018,11/6/2018
+TX,House,30,"Caraway, Barbara Mallory",D,CP,12/11/2017,3/6/2018,11/6/2018
+TX,House,31,"Mann, Christine",D,C,12/11/2017,3/6/2018,11/6/2018
+TX,House,31,"Hegar, MJ",D,C,12/11/2017,3/6/2018,11/6/2018
+TX,House,32,"Pellett, Danielle J.",D,C,12/11/2017,3/6/2018,11/6/2018
+TX,House,32,"Salerno, Lillian E.",D,C,12/11/2017,3/6/2018,11/6/2018
+TX,House,36,"Steele, Dayna",D,C,12/11/2017,3/6/2018,11/6/2018
+UT,Senate,,"Wilson, Jenny",D,C,3/15/2018,6/26/2018,11/6/2018
+UT,House,01,"Callow-Huesser, Cathy",R,CP,3/15/2018,6/26/2018,11/6/2018
+UT,House,02,"Snow, Misty K.",D,C,3/15/2018,6/26/2018,11/6/2018
+UT,House,02,"Burkett, Mary",R,CP,3/15/2018,6/26/2018,11/6/2018
+UT,House,02,"Surveyor, Carol",D,C,3/15/2018,6/26/2018,11/6/2018
+UT,House,02,"Ghorbani, Shireen S.",D,C,3/15/2018,6/26/2018,11/6/2018
+UT,House,04,"Love, Mia B.",R,I,3/15/2018,6/26/2018,11/6/2018
+UT,House,04,"McDonald, Darlene",D,C,3/15/2018,6/26/2018,11/6/2018
+VA,House,01,"Williams, Vangie",D,C,,6/12/2018,11/6/2018
+VA,House,02,"Brown, Shaun D.",D,C,,6/12/2018,11/6/2018
+VA,House,02,"Mallard, Karen",D,C,,6/12/2018,11/6/2018
+VA,House,02,"Jones, Mary",R,CP,,6/12/2018,11/6/2018
+VA,House,02,"Luria, Elaine G.",D,C,,6/12/2018,11/6/2018
+VA,House,05,"Cockburn, Leslie",D,C,,6/12/2018,11/6/2018
+VA,House,06,"Dunbar, Cynthia",R,O,,6/12/2018,11/6/2018
+VA,House,07,"Alli, Helen",D,C,,6/12/2018,11/6/2018
+VA,House,07,"Bedell, Eileen McNeil",D,C,,6/12/2018,11/6/2018
+VA,House,07,"Noble, Janelle",D,C,,6/12/2018,11/6/2018
+VA,House,07,"Gower, Kimberly S.",D,C,,6/12/2018,11/6/2018
+VA,House,07,"Spanberger, Abigail D.",D,C,,6/12/2018,11/6/2018
+VA,House,07,"Fraser, Diane F.",D,C,,6/12/2018,11/6/2018
+VA,House,10,"Comstock, Barbara J.",R,I,,6/12/2018,11/6/2018
+VA,House,10,"Adams, Kimberly",D,C,,6/12/2018,11/6/2018
+VA,House,10,"Smith, Kathy",D,C,,6/12/2018,11/6/2018
+VA,House,10,"Wexton, Jennifer",D,C,,6/12/2018,11/6/2018
+VA,House,10,"Stover, Lindsey Davis",D,C,,6/12/2018,11/6/2018
+VA,House,10,"Friedman, Alison",D,C,,6/12/2018,11/6/2018
+VA,House,10,"Biggins, Julia E.",D,C,,6/12/2018,11/6/2018
+VT,House,AL,"Ericson, Cris",D,CP,5/31/2018,8/14/2018,11/6/2018
+WA,Senate,,"Cantwell, Maria",D,I,5/18/2018,8/7/2018,11/6/2018
+WA,Senate,,"Ferguson, Jennifer H.",D,CP,5/18/2018,8/7/2018,11/6/2018
+WA,House,01,"DelBene, Suzan K.",D,I,5/18/2018,8/7/2018,11/6/2018
+WA,House,03,"Beutler, Jaime L. Herrera",R,I,5/18/2018,8/7/2018,11/6/2018
+WA,House,03,"Gasque, Dorothy",D,C,5/18/2018,8/7/2018,11/6/2018
+WA,House,04,"Brown, Christine C.",D,C,5/18/2018,8/7/2018,11/6/2018
+WA,House,05,"Rodgers, Cathy McMorris",R,I,5/18/2018,8/7/2018,11/6/2018
+WA,House,05,"Brown, Lisa",D,C,5/18/2018,8/7/2018,11/6/2018
+WA,House,07,"Jayapal, Pramila",D,I,5/18/2018,8/7/2018,11/6/2018
+WA,House,08,"Das, Mona",D,O,5/18/2018,8/7/2018,11/6/2018
+WA,House,08,"Schrier, Kim",D,O,5/18/2018,8/7/2018,11/6/2018
+WA,House,08,"Hader, Shannon",D,O,5/18/2018,8/7/2018,11/6/2018
+WA,House,09,"Smith, Sarah",D,CP,5/18/2018,8/7/2018,11/6/2018
+WI,Senate,,"Baldwin, Tammy",D,I,6/1/2018,8/14/2018,11/6/2018
+WI,Senate,,"Vukmir, Leah",R,C,6/1/2018,8/14/2018,11/6/2018
+WI,Senate,,"Walters, Mary Jo",D,CP,6/1/2018,8/14/2018,11/6/2018
+WI,House,01,"Myers, Cathy L.",D,C,6/1/2018,8/14/2018,11/6/2018
+WI,House,03,"Germanotta, Juliet Dita",D,CP,6/1/2018,8/14/2018,11/6/2018
+WI,House,04,"Moore, Gwen S.",D,I,6/1/2018,8/14/2018,11/6/2018
+WI,House,06,"Lloyd, Sarah",D,C,6/1/2018,8/14/2018,11/6/2018
+WV,Senate,,"Swearengin, Paula J.",D,CP,1/27/2018,5/8/2018,11/6/2018
+WV,House,01,"Fershee, Kendra Jean Huard",D,C,1/27/2018,5/8/2018,11/6/2018
+WV,House,02,"Sergent, R. Talley",D,C,1/27/2018,5/8/2018,11/6/2018
+WV,House,03,"Amjad, Ayne",R,O,1/27/2018,5/8/2018,11/6/2018
+WV,House,03,"Miller, Carol D.",R,O,1/27/2018,5/8/2018,11/6/2018
+WY,House,AL,"Cheney, Liz L.",R,I,6/1/2018,8/21/2018,11/6/2018
