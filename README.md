@@ -18,20 +18,22 @@ export FEC_KEY_3=<key>
 
 Syntax and num keys matters. See <update_key()> function in <campfin/get_candidates.py>
 
-##Fetch data from FEC api
+## Fetch data from FEC api
+
 ```
 python campfin/get_candidates.py --year 2018 //Get csv of candidates who filed for 2018
 python campfin/get_candidates.py --year 2018 --totals //Get csv of candidates with fund totals for 2018
 python campfin/get_candidates.py --year 2018 --districts //Get csv of districts with FEC ids and candidate count for 2018
 ```
 
-##Get Rutgers data
+## Get Rutgers data
+
 ```
 python campfin/rutgers.py //Gets Rutgers candidates into a csv. 
                              //Should look over to look at unicode errors or if name/party are conjoined from typos.
 ```
                              
-##Compare FEC data with Rutgers data (list of females registered to run for 2018)
+## Compare FEC data with Rutgers data (list of females registered to run for 2018)
 1. <python campfin/get_candidates.py --year 2018 --totals>
 2. <python campfin/rutgers.py>
 3. <python compare/compare_rutgers.py --rutgers data/2018_rutgers.csv --fec 2018_totals.csv>
