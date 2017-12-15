@@ -14,12 +14,13 @@ def compare(females, all):
 
     females = sorted(females, key=lambda x:x['name'])
     all = sorted(all, key=lambda x:x['name'])
-   
+    count = 0 
     c_last = 0
     f_last = 0
     for c in range(c_last, num_cands):
         for f in range(f_last, num_female):
             if all[c]["name"].lower() == females[f]["name"].lower():
+                count = count + 1
                 c_last = c + 1
                 f_last = f + 1
                 all[c]["rutgers_sex"] = "F"
@@ -28,6 +29,7 @@ def compare(females, all):
                 break
     updated_female = females
     updated_all = all
+    print("Found %s candidates in common." %str(count))
                 
 def write_to_csv(list, headers, path):
     with open(path, "w") as csvfile:
@@ -37,8 +39,8 @@ def write_to_csv(list, headers, path):
     print("Wrote to %s ." %path)
 
 if __name__ == '__main__':
-    females = get_candidates_csv("data/2018_rutgers.csv")
-    all = get_candidates_csv("data/2018_candidates_funds_all.csv")
+    females = get_candidates_csv("data/2018_rutgers_12_13.csv")
+    all = get_candidates_csv("data/2018_candidates_12_13_funds_all.csv")
     compare(females, all)
 
     all_headers = set(all[0].keys())

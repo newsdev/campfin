@@ -1,6 +1,8 @@
+import argparse
 import csv
 import json
 import os
+import sys
 import time
 
 try:
@@ -9,16 +11,26 @@ except ImportError:
     from urllib2 import urlopen, Request
 from utils import request_until_succeed, unicode_decode
 
+parser = argparse.ArgumentParser()
+parser.add_argument("--year", help="The election year you'd like to retrieve data for")
+parser.add_argument("--totals", help="Get totals for each candidate", action="store_true")
+parser.add_argument("--districts", help="Get data on district races", action="store_true")
+
+args = parser.parse_args()
+year = args.year
+totals = args.totals
+districts = args.districts
+
 base = "https://api.open.fec.gov/v1/"
 house = "H"
 api_key = os.environ.get('FEC_KEY_3', None)
 set_fields = set()
 
+
 """Returns list of candidates in given year"""
 def get_candidates(year):
     election_request = "election_year=" + year
     api_request = "api_key=" + api_key
-    print(api_request)
     page = 1
     has_next_page = True
     payload = []
@@ -50,6 +62,15 @@ def count_districts(candidates):
                 districts[key] = [candidate["candidate_id"]]
 
     return districts
+
+"""Writes to csv districts, candidate_ids, count"""
+def count_districts_csv(candidates):
+    districts = []
+    dictionary = count_districts(candidates)
+    for d in dictionary:
+        districts.append({"district":d, "candidates":dictionary.get(d), "count":len(dictionary.get(d))})
+    return districts
+
 """Sorts a dictionary according to length of value"""
 def sort_list(districts):
     district_list = []
@@ -69,7 +90,6 @@ def write_district_dict(year, candidates):
 """API request for the candidate/{candidate_id}/totals"""
 def request_candidate_totals(candidate_id):
     global api_key
-    time.sleep(0.5)
     url = base + "candidate/" + candidate_id + "/totals/"
     url = url + "?per_page=20&sort=-cycle&page=1&designation=P&api_key=" + api_key
     data = json.loads(request_until_succeed(url))["results"]
@@ -125,16 +145,49 @@ def get_candidates_csv(path):
         candidates = [{k: v for k, v in row.items()} \
                 for row in csv.DictReader(csvfile, skipinitialspace=True)]
     return candidates
-        
-if __name__ == '__main__':
-    year = "2018"
-    #Retrieve all candidates
-    candidates = get_candidates_csv("data/2018_candidates.csv")
 
-    #Get self funds of candidates
-    candidates_funds = get_self_funds(candidates)
-    with open("data/2018_candidates_funds_all.csv", "w") as csvfile:
+"""Writes dictionary to path"""
+def write_candidates_csv(candidates, path):
+    keys = candidates[0].keys() 
+    with open(path, "w") as csvfile:
+        dict_writer = csv.DictWriter(csvfile, keys)
+        dict_writer.writeheader()
+        dict_writer.writerows(candidates)
+    print("Wrote to %s." %path)
+
+"""Writes candidates w totals to csv"""
+def write_totals_csv(candidates_totals, path):
+    with open(path, "w") as csvfile:
         dict_writer = csv.DictWriter(csvfile, list(set_fields))
         dict_writer.writeheader()
-        dict_writer.writerows(candidates_funds)
+        dict_writer.writerows(candidates_totals)
+    print("Wrote to %s." %path)
 
+"""Candidates --> csv"""
+def get_cands_only(year):
+    candidates = get_candidates(year)
+    write_candidates_csv(candidates, "data/{}_candidates.csv".format(year))
+
+"""Candidates w totals --> csv"""
+def get_totals(year):
+    candidates = get_candidates(year)
+    #Get self funds of candidates
+    candidates_funds = get_self_funds(candidates)
+    write_totals_csv(candidates_funds, "data/%s_totals.csv" %year)
+
+"""District count --> csv"""
+def get_districts(year):
+    candidates = get_candidates(year)
+    districts = count_districts_csv(candidates)
+    write_candidates_csv(districts, "data/%s_districts.csv" %year)
+
+if __name__ == '__main__':
+    if year is None:
+        print("Must specify election year.")
+        sys.exit()
+    elif totals:
+        get_totals(year)
+    elif districts:
+        get_districts(year)
+    else:
+        get_cands_only(year)
